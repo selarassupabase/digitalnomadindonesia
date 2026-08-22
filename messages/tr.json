@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "visaService": "Vize Hizmeti",
+    "legalServices": "Hukuki Hizmetler",
+    "travelTour": "Seyahat & Tur",
+    "about": "Hakkımızda",
+    "blogs": "Bloglar",
+    "contact": "Bize Ulaşın",
+    "faq": "SSS",
+    "getInTouch": "İletişime Geçin"
+  },
+  "common": {
+    "learnMore": "Daha Fazla Bilgi",
+    "readMore": "Devamını Oku",
+    "getStarted": "Hemen Başlayın",
+    "contactUs": "Bize Ulaşın",
+    "allRightsReserved": "Tüm hakları saklıdır."
+  },
+  "home": {
+    "hero": {
+      "title": "Bali'de Sorunsuz Yaşayın ve Çalışın",
+      "subtitle": "Takımadaların tropik cenneti Bali'de zahmetsiz seyahatin ve uzaktan çalışmanın heyecanını yaşayın.",
+      "ctaPrimary": "Vize Seçeneklerini Keşfedin",
+      "ctaSecondary": "Bizimle Konuşun"
+    },
+    "about": {
+      "eyebrow": "DNI Nedir?",
+      "text": "Digital Nomad Indonesia, sürdürülebilir uygulamalar, kültürel değişim, topluluk katılımı ve kaynaklar ile ağ oluşturma fırsatları sunarak Indonesia'daki uzaktan çalışanları güçlendirmeyi amaçlar."
+    },
+    "why": {
+      "title": "Neden Bali'yi Seçmelisiniz?",
+      "items": [
+        {
+          "title": "Muhteşem Manzaralar, Kartpostal Gibi Plajlar",
+          "text": "Sonsuza dek uzanan yemyeşil pirinç tarlalarını keşfedin, yoğun ormanda maceraya atılın, hatta bir yanardağa tırmanın. Okyanusun derinliklerine açılarak tüplü dalış veya şnorkelle dalış gibi su sporlarına katılın."
+        },
+        {
+          "title": "Kendine Özgü Sanat Formları ve Canlı Bir Toplum",
+          "text": "Balililerin pozitif enerjisini ve coşkusunu, kendine özgü kültürlerinin neredeyse her yönünde hissedebilirsiniz — bu kültür, dünyanın dört bir yanından sanatçıları ve yoga ile farkındalıkla ilgilenenleri kendine çeker."
+        },
+        {
+          "title": "Kanıtlanmış Bir Turistik Cazibe Merkezi",
+          "text": "Bali, ister sadece uğrayıp geçiyor olun ister burayı kalıcı bir yuva yapıp göçebe hayatı yaşamak isteyin, her açıdan elverişlidir. Gelişmiş bölgeler, çalışmak veya konaklamak için mükemmel yerler sunar."
+        }
+      ]
+    },
+    "cost": {
+      "title": "Yaşam Maliyeti",
+      "text": "Nispeten düşük yaşam maliyeti, Bali'nin bir başka harika yönüdür. Bütçeniz kısıtlıysa, bir dolara akşam yemeği ve beş dolara bir hostel yatağı bulabilirsiniz. Uzun konaklamalarda iki yatak odalı bir villa aylık yalnızca 500 dolara sizin olabilir — ve orta düzey bir bütçeyle aylık 1.000 dolar fazlasıyla yeterli olacaktır."
+    },
+    "visa": {
+      "title": "Bali'deki Dijital Göçebeler İçin Vize Seçenekleri",
+      "subtitle": "Bali'deki çalışma tatilinize gitmeden önce tüm belgelerinizin hazır olduğundan emin olun.",
+      "items": [
+        {
+          "title": "Uzaktan Çalışan Vizesi",
+          "text": "Indonesia dışında bulunan şirketlerde çalışan uzaktan çalışanlar için, çoklu girişle en fazla bir yıl geçerlidir.",
+          "href": "/remote-worker-visa-digital-nomad"
+        },
+        {
+          "title": "Elektronik Varışta Vize",
+          "text": "Varış günü dahil 30 gün geçerli tek girişli bir vizedir. Bir kez daha 30 gün için uzatılabilir.",
+          "href": "/electronic-visa-on-arrival"
+        },
+        {
+          "title": "Çoklu Giriş Vizeleri",
+          "text": "1, 2 veya 5 yıl geçerli, en fazla 60 günlük konaklamalara izin veren, ülkeden çıkmadan her biri 60 gün olmak üzere iki kez uzatılabilen çoklu girişli bir vizedir.",
+          "href": "/multiple-entry-visas"
+        }
+      ]
+    },
+    "destinations": {
+      "title": "Bali'deki Dijital Göçebeler İçin En İyi Destinasyonlar",
+      "items": [
+        {
+          "name": "Canggu",
+          "text": "Seminyak'ın hemen kuzeyinde yer alan küçük bir kasaba ve 8 km'lik bir kıyı şeridi olup, 1970'lerden bu yana önde gelen bir sörf destinasyonu olarak kabul edilir. Bol miktarda ortak çalışma ve ortak yaşam alanı ile rahat sörfçü ritimleri sayesinde, birçok kişi burayı bir dijital göçebe için mükemmel destinasyon olarak nitelendirir."
+        },
+        {
+          "name": "Ubud",
+          "text": "Daha huzurlu bir yer arıyorsanız en iyi tercih. Sakin havasıyla bilinen bu yerde, huzur ve sessizlik içinde çok iş başarabilir, ardından ormanda bir yürüyüş veya bölgedeki birçok yoga dersi ve inziva merkezinden biriyle dinlenebilirsiniz."
+        }
+      ]
+    },
+    "news": {
+      "title": "Son Haberler",
+      "cta": "Tüm makaleleri görüntüle"
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "items": [
+        {
+          "q": "Indonesia iş vizeleri nelerdir?",
+          "a": "İki tür Indonesia İş Vizesi vardır: Çoklu Giriş ve Tek Giriş. Tek Girişli İş Vizesi 60 gün geçerlidir ve en fazla 3 kez uzatılabilirken, Çoklu Girişli İş Vizesi 12 ay geçerlidir."
+        },
+        {
+          "q": "Indonesia'da işimi nasıl büyütebilirim?",
+          "a": "Yabancılar için en yaygın yol, bir PT PMA (yabancı sermayeli limited şirket) kurmaktır. Hukuk ekibimiz, şirket kaydı, ruhsatlandırma ve uyumluluğu baştan sona yürütür."
+        },
+        {
+          "q": "Indonesia'da kaç çeşit vergi vardır?",
+          "a": "Başlıca vergiler kurumlar vergisi, kişisel gelir vergisi ve Katma Değer Vergisi (KDV/PPN) ile stopaj vergileridir. Bir NPWP almanıza ve uyumlu kalmanıza yardımcı oluyoruz."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Indonesia'da Dijital Göçebe Hayatını Yaşamaya Hazır mısınız?",
+      "text": "Planlarınızı bize anlatın, ekibimiz sizi doğru vizeye, izne veya hukuki hizmete yönlendirsin.",
+      "button": "Ekibimizle İletişime Geçin"
+    }
+  },
+  "footer": {
+    "tagline": "Bali, Indonesia'da vize, hukuki hizmetler ve seyahat için güvenilir ortağınız.",
+    "services": "Hizmetler",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "privacy": "Gizlilik Politikası",
+    "whatsappVisa": "WhatsApp — Vize & Hukuki",
+    "whatsappTravel": "WhatsApp — Seyahat"
+  },
+  "about": {
+    "hero": "Hakkımızda",
+    "tagline": "Uzaktan çalışanların ve yurt dışında yaşayanların Indonesia'da yaşamasına, çalışmasına ve yatırım yapmasına yardımcı oluyoruz — en kolay yoldan.",
+    "missionTitle": "Misyonumuz",
+    "mission": "Digital Nomad Indonesia, sürdürülebilir uygulamalar, kültürel değişim, topluluk katılımı ve kaynaklar ile ağ oluşturma fırsatları sunarak Indonesia'daki uzaktan çalışanları güçlendirmeyi amaçlar.",
+    "storyTitle": "Biz Kimiz",
+    "story": "Canggu, Bali merkezli, Indonesia'ya taşınmayı basitleştirmeye adanmış bir vize, hukuk ve seyahat uzmanları ekibiyiz. İlk turist vizenizden bir şirket kurmaya ve uzun vadeli yerleşmeye kadar, buraya gelme amacınız olan hayata ve işe odaklanabilmeniz için her gereklilikte size rehberlik ediyoruz.",
+    "values": [
+      {"title": "Güvenilir & Uyumlu", "text": "Indonesia göçmenlik ve vergi mevzuatına tam uyumlu kalmanızı sağlıyoruz."},
+      {"title": "Baştan Sona Destek", "text": "Vizeler, hukuki kurulum ve seyahat için tek bir ekip — birden fazla acenteyle uğraşmanıza gerek yok."},
+      {"title": "Yerel Uzmanlık", "text": "Bali'de sahadaki bilgi birikimi ve doğru ofislerle güçlü ilişkiler."},
+      {"title": "Önce Topluluk", "text": "Sizi dijital göçebe topluluğu ve ihtiyaç duyduğunuz kaynaklarla buluşturuyoruz."}
+    ],
+    "stats": [
+      {"value": "1000+", "label": "Hizmet verilen müşteri"},
+      {"value": "10+", "label": "Vize & izin türü"},
+      {"value": "5", "label": "Desteklenen dil"},
+      {"value": "Bali", "label": "Canggu merkezli"}
+    ]
+  },
+  "faqPage": {
+    "hero": "Sıkça Sorulan Sorular",
+    "tagline": "Indonesia'da vizeler, izinler ve iş yapma hakkında en çok duyduğumuz soruların yanıtları.",
+    "items": [
+      {"q": "Indonesia iş vizeleri nelerdir?", "a": "İki tür Indonesia İş Vizesi vardır: Çoklu Giriş ve Tek Giriş. Tek Girişli İş Vizesi 60 gün geçerlidir ve en fazla 3 kez uzatılabilirken, Çoklu Girişli İş Vizesi 12 ay geçerlidir."},
+      {"q": "Indonesia'da işimi nasıl büyütebilirim?", "a": "Yabancılar için en yaygın yol, bir PT PMA (yabancı sermayeli limited şirket) kurmaktır. Hukuk ekibimiz, şirket kaydı, ruhsatlandırma ve uyumluluğu baştan sona yürütür."},
+      {"q": "Indonesia'da kaç çeşit vergi vardır?", "a": "Başlıca vergiler kurumlar vergisi, kişisel gelir vergisi ve Katma Değer Vergisi (KDV/PPN) ile stopaj vergileridir. Bir NPWP almanıza ve uyumlu kalmanıza yardımcı oluyoruz."},
+      {"q": "Dijital göçebeler için hangi vize en iyisidir?", "a": "Uzaktan Çalışan (Dijital Göçebe) Vizesi, Indonesia dışında bir şirkette çalışanlar için uygundur; B211 tek girişli vize ise daha uzun tatiller ve uzaktan konaklamalar için popülerdir. Durumunuza en uygun olanı size önereceğiz."},
+      {"q": "Varışta Vizemi uzatabilir miyim?", "a": "Evet. Varışta Vize, ülkeden çıkmadan bir kez daha 30 gün için uzatılabilir ve tüm süreci sizin adınıza yönetiyoruz."},
+      {"q": "KITAS ve KITAP konusunda yardımcı oluyor musunuz?", "a": "Evet. Yatırımcı, Çalışma, Aile ve Emeklilik KITAS işlemlerini yürütüyoruz ve uygun olduğunuz durumlarda sizi daha uzun vadeli bir KITAP'a yönlendirebiliriz."},
+      {"q": "Süreç ne kadar sürüyor?", "a": "Süreler vize türüne göre değişir, ancak size her zaman baştan gerçekçi bir tahmin veriyor ve her aşamada sizi bilgilendiriyoruz."},
+      {"q": "Bali dışında hizmet veriyor musunuz?", "a": "Evet. Canggu merkezli olmamıza rağmen, Indonesia genelinde müşterilerimize vize, hukuki kurulum ve taşınma konularında yardımcı oluyoruz."}
+    ]
+  },
+  "contact": {
+    "hero": "Bize Ulaşın",
+    "tagline": "Planlarınızı bize anlatın — ekibimiz sizi doğru vizeye, izne veya hizmete yönlendirsin.",
+    "formTitle": "Bize bir mesaj gönderin",
+    "name": "Ad soyad",
+    "email": "E-posta adresi",
+    "phone": "Telefon / WhatsApp",
+    "topic": "Size nasıl yardımcı olabiliriz?",
+    "message": "Mesajınız",
+    "send": "Mesaj Gönder",
+    "sending": "Gönderiliyor…",
+    "success": "Teşekkürler! Mesajınız gönderildi. En kısa sürede size geri döneceğiz.",
+    "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
+    "reachUs": "Bize ulaşın",
+    "topics": [
+      "Varışta Vize Uzatma",
+      "Sosyal & Kültür Vizesi",
+      "Tek veya Çoklu Girişli İş Vizesi",
+      "Emeklilik Vizesi / KITAS",
+      "Aile Vizesi / KITAS",
+      "Çalışma Vizesi / KITAS",
+      "Yatırımcı KITAS",
+      "Şirket Kuruluşu (PT PMA)",
+      "Yeminli & Onaylı Tercüme",
+      "Belge Yasallaştırma",
+      "Seyahat & Tur",
+      "Diğer"
+    ]
+  },
+  "privacy": {
+    "hero": "Gizlilik Politikası",
+    "updated": "Son güncelleme: Temmuz 2025"
+  }
+}

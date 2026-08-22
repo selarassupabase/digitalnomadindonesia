@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "visaService": "Serviço de Vistos",
+    "legalServices": "Serviços Jurídicos",
+    "travelTour": "Viagens e Passeios",
+    "about": "Sobre Nós",
+    "blogs": "Blogs",
+    "contact": "Contate-nos",
+    "faq": "Perguntas Frequentes",
+    "getInTouch": "Entre em Contato"
+  },
+  "common": {
+    "learnMore": "Saiba Mais",
+    "readMore": "Leia Mais",
+    "getStarted": "Comece Agora",
+    "contactUs": "Contate-nos",
+    "allRightsReserved": "Todos os direitos reservados."
+  },
+  "home": {
+    "hero": {
+      "title": "Viva e Trabalhe em Bali Sem Complicações",
+      "subtitle": "Aproveite a emoção de viajar sem esforço e trabalhar remotamente em Bali, o paraíso tropical do arquipélago.",
+      "ctaPrimary": "Explorar Opções de Visto",
+      "ctaSecondary": "Fale Conosco"
+    },
+    "about": {
+      "eyebrow": "O que é a DNI?",
+      "text": "A Digital Nomad Indonesia tem como objetivo capacitar trabalhadores remotos na Indonesia por meio de práticas sustentáveis, intercâmbio cultural, engajamento comunitário e do fornecimento de recursos e oportunidades de networking."
+    },
+    "why": {
+      "title": "Por que Escolher Bali?",
+      "items": [
+        {
+          "title": "Paisagens Deslumbrantes, Praias Perfeitas",
+          "text": "Explore exuberantes arrozais que se estendem até onde a vista alcança, embarque em uma aventura pela densa selva ou até mesmo escale um vulcão. Aventure-se mais adentro no oceano e pratique esportes aquáticos como mergulho ou snorkeling."
+        },
+        {
+          "title": "Formas de Arte Distintas e uma Sociedade Vibrante",
+          "text": "Você pode sentir a energia positiva e o entusiasmo do povo balinês em quase todos os aspectos de sua cultura singular — a cultura que atrai artistas e interessados em ioga e mindfulness de todos os cantos do mundo."
+        },
+        {
+          "title": "Uma Atração Turística Consagrada",
+          "text": "Bali é conveniente, quer você esteja apenas de passagem ou queira torná-la seu lar permanente e viver a vida nômade. Os bairros urbanizados oferecem excelentes lugares para trabalhar ou se hospedar."
+        }
+      ]
+    },
+    "cost": {
+      "title": "Custo de Vida",
+      "text": "O custo de vida relativamente baixo é mais um aspecto maravilhoso de Bali. Se você estiver com pouco dinheiro, pode jantar por um dólar e conseguir uma cama em um hostel por cinco. Uma vila de dois quartos pode ser sua por apenas US$ 500 por mês em uma estadia mais longa — e com um orçamento moderado, US$ 1.000 por mês devem ser mais do que suficientes."
+    },
+    "visa": {
+      "title": "Opções de Visto para Nômades Digitais em Bali",
+      "subtitle": "Certifique-se de ter toda a documentação em ordem antes de partir para o seu workation em Bali.",
+      "items": [
+        {
+          "title": "Visto de Trabalhador Remoto",
+          "text": "Válido por no máximo um ano com múltiplas entradas, para trabalhadores remotos empregados por empresas localizadas fora da Indonesia.",
+          "href": "/remote-worker-visa-digital-nomad"
+        },
+        {
+          "title": "Visto Eletrônico na Chegada",
+          "text": "Um visto de entrada única válido por 30 dias, incluindo o dia da chegada. Pode ser estendido uma vez por mais 30 dias.",
+          "href": "/electronic-visa-on-arrival"
+        },
+        {
+          "title": "Vistos de Múltiplas Entradas",
+          "text": "Um visto de múltiplas entradas válido por 1, 2 ou 5 anos, permitindo estadias de até 60 dias, extensível duas vezes por mais 60 dias cada, sem sair do país.",
+          "href": "/multiple-entry-visas"
+        }
+      ]
+    },
+    "destinations": {
+      "title": "Principais Destinos para Nômades Digitais em Bali",
+      "items": [
+        {
+          "name": "Canggu",
+          "text": "Uma pequena cidade e um trecho costeiro de 8 km logo ao norte de Seminyak, considerada um dos principais destinos de surfe desde a década de 1970. Com uma abundância de espaços de co-working e co-living e o ritmo descontraído dos surfistas, muitos a chamam de destino perfeito para um nômade digital."
+        },
+        {
+          "name": "Ubud",
+          "text": "O melhor lugar se você procura algo mais tranquilo. Conhecida por seu clima relaxante, você pode produzir bastante em paz e sossego, e depois descansar com uma caminhada pela floresta ou em uma das muitas aulas de ioga e retiros da região."
+        }
+      ]
+    },
+    "news": {
+      "title": "Últimas Notícias",
+      "cta": "Ver todos os artigos"
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "items": [
+        {
+          "q": "O que são os vistos de negócios da Indonesia?",
+          "a": "Existem dois tipos de Visto de Negócios da Indonesia: Múltiplas Entradas e Entrada Única. O Visto de Negócios de Entrada Única é válido por 60 dias e pode ser estendido até 3 vezes, enquanto o Visto de Negócios de Múltiplas Entradas é válido por 12 meses."
+        },
+        {
+          "q": "Como faço para expandir meu negócio na Indonesia?",
+          "a": "O caminho mais comum para estrangeiros é a constituição de uma PT PMA (empresa de responsabilidade limitada com capital estrangeiro). Nossa equipe jurídica cuida do registro da empresa, do licenciamento e da conformidade de ponta a ponta."
+        },
+        {
+          "q": "Quantos tipos de imposto existem na Indonesia?",
+          "a": "Os principais impostos são o imposto de renda corporativo, o imposto de renda pessoal e o Imposto sobre Valor Agregado (VAT/PPN), além dos impostos retidos na fonte. Ajudamos você a obter um NPWP e a manter-se em conformidade."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pronto para Viver a Vida de Nômade Digital na Indonesia?",
+      "text": "Conte-nos seus planos e nossa equipe irá orientá-lo até o visto, autorização ou serviço jurídico ideal.",
+      "button": "Fale com Nossa Equipe"
+    }
+  },
+  "footer": {
+    "tagline": "Seu parceiro de confiança para vistos, serviços jurídicos e viagens em Bali, Indonesia.",
+    "services": "Serviços",
+    "quickLinks": "Links Rápidos",
+    "contact": "Contato",
+    "privacy": "Política de Privacidade",
+    "whatsappVisa": "WhatsApp — Vistos e Jurídico",
+    "whatsappTravel": "WhatsApp — Viagens"
+  },
+  "about": {
+    "hero": "Sobre Nós",
+    "tagline": "Ajudando trabalhadores remotos e expatriados a viver, trabalhar e investir na Indonesia — de forma simples.",
+    "missionTitle": "Nossa Missão",
+    "mission": "A Digital Nomad Indonesia tem como objetivo capacitar trabalhadores remotos na Indonesia por meio de práticas sustentáveis, intercâmbio cultural, engajamento comunitário e do fornecimento de recursos e oportunidades de networking.",
+    "storyTitle": "Quem Somos",
+    "story": "Sediados em Canggu, Bali, somos uma equipe de especialistas em vistos, questões jurídicas e viagens dedicada a tornar a mudança para a Indonesia simples. Do seu primeiro visto de turista à abertura de uma empresa e ao estabelecimento a longo prazo, guiamos você por cada requisito para que possa focar na vida e no trabalho que veio buscar aqui.",
+    "values": [
+      {"title": "Confiável e em Conformidade", "text": "Mantemos você em total conformidade com as regulamentações de imigração e tributárias da Indonesia."},
+      {"title": "Suporte de Ponta a Ponta", "text": "Uma única equipe para vistos, estruturação jurídica e viagens — sem precisar lidar com várias agências."},
+      {"title": "Expertise Local", "text": "Conhecimento de campo em Bali e sólidos relacionamentos com os órgãos certos."},
+      {"title": "Comunidade em Primeiro Lugar", "text": "Conectamos você à comunidade de nômades digitais e aos recursos de que precisa."}
+    ],
+    "stats": [
+      {"value": "1000+", "label": "Clientes atendidos"},
+      {"value": "10+", "label": "Tipos de vistos e autorizações"},
+      {"value": "5", "label": "Idiomas atendidos"},
+      {"value": "Bali", "label": "Sediados em Canggu"}
+    ]
+  },
+  "faqPage": {
+    "hero": "Perguntas Frequentes",
+    "tagline": "Respostas às perguntas que mais ouvimos sobre vistos, autorizações e negócios na Indonesia.",
+    "items": [
+      {"q": "O que são os vistos de negócios da Indonesia?", "a": "Existem dois tipos de Visto de Negócios da Indonesia: Múltiplas Entradas e Entrada Única. O Visto de Negócios de Entrada Única é válido por 60 dias e pode ser estendido até 3 vezes, enquanto o Visto de Negócios de Múltiplas Entradas é válido por 12 meses."},
+      {"q": "Como faço para expandir meu negócio na Indonesia?", "a": "O caminho mais comum para estrangeiros é a constituição de uma PT PMA (empresa de responsabilidade limitada com capital estrangeiro). Nossa equipe jurídica cuida do registro da empresa, do licenciamento e da conformidade de ponta a ponta."},
+      {"q": "Quantos tipos de imposto existem na Indonesia?", "a": "Os principais impostos são o imposto de renda corporativo, o imposto de renda pessoal e o Imposto sobre Valor Agregado (VAT/PPN), além dos impostos retidos na fonte. Ajudamos você a obter um NPWP e a manter-se em conformidade."},
+      {"q": "Qual visto é o melhor para nômades digitais?", "a": "O Visto de Trabalhador Remoto (Nômade Digital) é ideal para quem é empregado por uma empresa fora da Indonesia, enquanto o visto de entrada única B211 é popular para férias mais longas e estadias remotas. Recomendaremos a melhor opção para a sua situação."},
+      {"q": "Posso estender meu Visto na Chegada?", "a": "Sim. Um Visto na Chegada pode ser estendido uma vez por mais 30 dias sem sair do país, e nós gerenciamos todo o processo para você."},
+      {"q": "Vocês ajudam com KITAS e KITAP?", "a": "Sim. Processamos os KITAS de Investidor, Trabalho, Família e Aposentadoria, e podemos orientá-lo em direção a um KITAP de longo prazo quando elegível."},
+      {"q": "Quanto tempo leva o processo?", "a": "Os prazos variam conforme o tipo de visto, mas sempre fornecemos uma estimativa realista de antemão e mantemos você atualizado em cada etapa."},
+      {"q": "Vocês oferecem serviços fora de Bali?", "a": "Sim. Embora estejamos sediados em Canggu, atendemos clientes em toda a Indonesia com vistos, estruturação jurídica e mudança."}
+    ]
+  },
+  "contact": {
+    "hero": "Contate-nos",
+    "tagline": "Conte-nos seus planos — nossa equipe irá indicar o visto, autorização ou serviço ideal.",
+    "formTitle": "Envie-nos uma mensagem",
+    "name": "Nome completo",
+    "email": "Endereço de e-mail",
+    "phone": "Telefone / WhatsApp",
+    "topic": "Como podemos ajudar?",
+    "message": "Sua mensagem",
+    "send": "Enviar Mensagem",
+    "sending": "Enviando…",
+    "success": "Obrigado! Sua mensagem foi enviada. Retornaremos em breve.",
+    "error": "Algo deu errado. Tente novamente ou envie-nos um e-mail diretamente.",
+    "reachUs": "Fale conosco",
+    "topics": [
+      "Extensão do Visto na Chegada",
+      "Visto Social e Cultural",
+      "Visto de Negócios de Entrada Única ou Múltiplas Entradas",
+      "Visto de Aposentadoria / KITAS",
+      "Visto de Família / KITAS",
+      "Visto de Trabalho / KITAS",
+      "KITAS de Investidor",
+      "Abertura de Empresa (PT PMA)",
+      "Tradução Juramentada e Certificada",
+      "Legalização de Documentos",
+      "Viagens e Passeios",
+      "Outro"
+    ]
+  },
+  "privacy": {
+    "hero": "Política de Privacidade",
+    "updated": "Última atualização: julho de 2025"
+  }
+}

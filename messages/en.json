@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "visaService": "Visa Service",
+    "legalServices": "Legal Services",
+    "travelTour": "Travel & Tour",
+    "about": "About Us",
+    "blogs": "Blogs",
+    "contact": "Contact Us",
+    "faq": "FAQ",
+    "getInTouch": "Get in Touch"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us",
+    "allRightsReserved": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Live and Work in Bali Hassle-Free",
+      "subtitle": "Embrace the excitement of effortless journeying and remote work in Bali, the tropical paradise of the archipelago.",
+      "ctaPrimary": "Explore Visa Options",
+      "ctaSecondary": "Talk to Us"
+    },
+    "about": {
+      "eyebrow": "What Is DNI?",
+      "text": "Digital Nomad Indonesia aims to empower remote workers in Indonesia through sustainable practices, cultural exchange, community engagement, and providing resources and networking opportunities."
+    },
+    "why": {
+      "title": "Why Choose Bali?",
+      "items": [
+        {
+          "title": "Gorgeous Landscapes, Picture-Perfect Beaches",
+          "text": "Explore verdant rice paddies that stretch on forever, go on an adventure through dense jungle, or even climb a volcano. Venture further into the ocean and engage in water sports like scuba diving or snorkeling."
+        },
+        {
+          "title": "Distinct Art Forms and Vibrant Society",
+          "text": "You can feel the positive energy and enthusiasm of the Balinese people in nearly every facet of their distinctive culture — the culture that draws artists and those interested in yoga and mindfulness from all over the globe."
+        },
+        {
+          "title": "A Proven Tourist Attraction",
+          "text": "Bali is convenient whether you're just passing through or want to make it a permanent home and live the nomadic life. The built-up districts provide excellent places to work or stay."
+        }
+      ]
+    },
+    "cost": {
+      "title": "Cost of Living",
+      "text": "The relatively low cost of living is yet another wonderful aspect of Bali. If you're strapped for cash, you can get dinner for a dollar and a hostel bed for five. A two-bedroom villa can be yours for as little as $500 per month on a longer stay — and on a moderate budget, $1,000 a month should be plenty."
+    },
+    "visa": {
+      "title": "Visa Options for Digital Nomads in Bali",
+      "subtitle": "Make sure you have all the documentation in place before leaving for your workation in Bali.",
+      "items": [
+        {
+          "title": "Remote Worker Visa",
+          "text": "Valid for a maximum of one year with multiple entries, for remote workers employed by companies located outside Indonesia.",
+          "href": "/remote-worker-visa-digital-nomad"
+        },
+        {
+          "title": "Electronic Visa on Arrival",
+          "text": "A single-entry visa valid for 30 days including the day of arrival. It can be extended once for another 30 days.",
+          "href": "/electronic-visa-on-arrival"
+        },
+        {
+          "title": "Multiple Entry Visas",
+          "text": "A multi-entry visa valid for 1, 2, or 5 years, allowing stays of up to 60 days, extendable twice for 60 days each without leaving the country.",
+          "href": "/multiple-entry-visas"
+        }
+      ]
+    },
+    "destinations": {
+      "title": "Top Destinations for Digital Nomads in Bali",
+      "items": [
+        {
+          "name": "Canggu",
+          "text": "A small town and 8km coastal stretch just north of Seminyak, regarded as a top surfing destination since the 1970s. With an abundance of co-working and co-living spaces and laid-back surfer rhythms, many call it the perfect destination for a digital nomad."
+        },
+        {
+          "name": "Ubud",
+          "text": "The best place if you want somewhere more peaceful. Known for its chill vibe, you can get a lot of work done in peace and quiet, then rest with a walk in the woods or one of the many yoga classes and retreats in the area."
+        }
+      ]
+    },
+    "news": {
+      "title": "Latest News",
+      "cta": "View all articles"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "q": "What are Indonesia visas for business?",
+          "a": "There are two types of Indonesia Business Visa: Multiple Entry and Single Entry. The Single Entry Business Visa is valid for 60 days and is extendable up to 3 times, while the Multiple Entry Business Visa is valid for 12 months."
+        },
+        {
+          "q": "How do I expand my business in Indonesia?",
+          "a": "The most common route for foreigners is setting up a PT PMA (foreign-owned limited liability company). Our legal team handles company registration, licensing, and compliance end to end."
+        },
+        {
+          "q": "How many types of tax are there in Indonesia?",
+          "a": "The main taxes are corporate income tax, personal income tax, and Value Added Tax (VAT/PPN), along with withholding taxes. We help you obtain an NPWP and stay compliant."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Live the Digital Nomad Life in Indonesia?",
+      "text": "Tell us your plans and our team will guide you to the right visa, permit, or legal service.",
+      "button": "Contact Our Team"
+    }
+  },
+  "footer": {
+    "tagline": "Your trusted partner for visas, legal services, and travel in Bali, Indonesia.",
+    "services": "Services",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "whatsappVisa": "WhatsApp — Visa & Legal",
+    "whatsappTravel": "WhatsApp — Travel"
+  },
+  "about": {
+    "hero": "About Us",
+    "tagline": "Helping remote workers and expats live, work and invest in Indonesia — the easy way.",
+    "missionTitle": "Our Mission",
+    "mission": "Digital Nomad Indonesia aims to empower remote workers in Indonesia through sustainable practices, cultural exchange, community engagement, and providing resources and networking opportunities.",
+    "storyTitle": "Who We Are",
+    "story": "Based in Canggu, Bali, we are a team of visa, legal and travel specialists dedicated to making relocation to Indonesia simple. From your first tourist visa to setting up a company and settling in long term, we guide you through every requirement so you can focus on the life and work you came here for.",
+    "values": [
+      {"title": "Trusted & Compliant", "text": "We keep you fully compliant with Indonesian immigration and tax regulations."},
+      {"title": "End-to-End Support", "text": "One team for visas, legal setup and travel — no need to juggle multiple agencies."},
+      {"title": "Local Expertise", "text": "On-the-ground knowledge in Bali and strong relationships with the right offices."},
+      {"title": "Community First", "text": "We connect you with the digital nomad community and the resources you need."}
+    ],
+    "stats": [
+      {"value": "1000+", "label": "Clients served"},
+      {"value": "10+", "label": "Visa & permit types"},
+      {"value": "5", "label": "Languages supported"},
+      {"value": "Bali", "label": "Based in Canggu"}
+    ]
+  },
+  "faqPage": {
+    "hero": "Frequently Asked Questions",
+    "tagline": "Answers to the questions we hear most about visas, permits and doing business in Indonesia.",
+    "items": [
+      {"q": "What are Indonesia visas for business?", "a": "There are two types of Indonesia Business Visa: Multiple Entry and Single Entry. The Single Entry Business Visa is valid for 60 days and is extendable up to 3 times, while the Multiple Entry Business Visa is valid for 12 months."},
+      {"q": "How do I expand my business in Indonesia?", "a": "The most common route for foreigners is setting up a PT PMA (foreign-owned limited liability company). Our legal team handles company registration, licensing and compliance end to end."},
+      {"q": "How many types of tax are there in Indonesia?", "a": "The main taxes are corporate income tax, personal income tax, and Value Added Tax (VAT/PPN), along with withholding taxes. We help you obtain an NPWP and stay compliant."},
+      {"q": "Which visa is best for digital nomads?", "a": "The Remote Worker (Digital Nomad) Visa suits those employed by a company outside Indonesia, while the B211 single-entry visa is popular for longer holidays and remote stays. We'll recommend the best fit for your situation."},
+      {"q": "Can I extend my Visa on Arrival?", "a": "Yes. A Visa on Arrival can be extended once for an additional 30 days without leaving the country, and we manage the entire process for you."},
+      {"q": "Do you help with KITAS and KITAP?", "a": "Yes. We process Investor, Working, Family and Retirement KITAS, and can guide you toward a longer-term KITAP where eligible."},
+      {"q": "How long does the process take?", "a": "Timelines vary by visa type, but we always give you a realistic estimate up front and keep you updated at every stage."},
+      {"q": "Do you offer services outside Bali?", "a": "Yes. While we're based in Canggu, we assist clients across Indonesia with visas, legal setup and relocation."}
+    ]
+  },
+  "contact": {
+    "hero": "Contact Us",
+    "tagline": "Tell us your plans — our team will point you to the right visa, permit or service.",
+    "formTitle": "Send us a message",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone / WhatsApp",
+    "topic": "How can we help?",
+    "message": "Your message",
+    "send": "Send Message",
+    "sending": "Sending…",
+    "success": "Thanks! Your message has been sent. We'll get back to you shortly.",
+    "error": "Something went wrong. Please try again or email us directly.",
+    "reachUs": "Reach us",
+    "topics": [
+      "Visa on Arrival Extension",
+      "Social & Culture Visa",
+      "Single or Multiple Entry Business Visa",
+      "Retirement Visa / KITAS",
+      "Family Visa / KITAS",
+      "Working Visa / KITAS",
+      "Investor KITAS",
+      "Company Setup (PT PMA)",
+      "Sworn & Certified Translation",
+      "Document Legalization",
+      "Travel & Tour",
+      "Other"
+    ]
+  },
+  "privacy": {
+    "hero": "Privacy Policy",
+    "updated": "Last updated: July 2025"
+  }
+}
