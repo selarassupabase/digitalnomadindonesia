@@ -23,6 +23,7 @@ export default async function AboutPage({
 
 function AboutContent() {
   const t = useTranslations('about');
+  const tu = useTranslations('ui');
   const values = t.raw('values') as {title: string; text: string}[];
   const stats = t.raw('stats') as {value: string; label: string}[];
 
@@ -59,7 +60,7 @@ function AboutContent() {
       {/* Values */}
       <section className="py-16">
         <div className="container-dni">
-          <h2 className="mb-10 text-center text-3xl font-bold text-ink">Why choose us</h2>
+          <h2 className="mb-10 text-center text-3xl font-bold text-ink">{tu('whyChooseUs')}</h2>
           <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
             {values.map((v, i) => (
               <div key={i} className="rounded-2xl border border-slate-200 bg-white p-6 text-center transition hover:shadow-md">

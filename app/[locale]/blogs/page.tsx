@@ -1,5 +1,6 @@
 import type {Metadata} from 'next';
 import Image from 'next/image';
+import {useTranslations} from 'next-intl';
 import {setRequestLocale} from 'next-intl/server';
 import {Link} from '@/i18n/navigation';
 import {posts} from '@/lib/blog';
@@ -18,22 +19,20 @@ export default async function BlogsPage({
 }) {
   const {locale} = await params;
   setRequestLocale(locale);
+  return <BlogsView />;
+}
 
+function BlogsView() {
+  const t = useTranslations('blogPage');
+  const tc = useTranslations('common');
   const [featured, ...rest] = posts;
 
   return (
     <>
-      <PageHero
-        title="Blogs & Guides"
-        tagline="Immigration updates, visa guides and practical advice for living and working in Indonesia."
-        image="/images/blog-kitas.webp"
-        eyebrow="News"
-        crumb="Blogs"
-      />
+      <PageHero title={t('heroTitle')} tagline={t('heroTagline')} image="/images/blog-kitas.webp" eyebrow="News" crumb={t('heroTitle')} />
 
       <section className="py-16">
         <div className="container-dni">
-          {/* Featured */}
           <Link href={`/blogs/${featured.slug}`} className="group mb-14 grid gap-8 overflow-hidden rounded-3xl border border-slate-200 bg-white transition hover:shadow-lg md:grid-cols-2">
             <div className="relative min-h-64">
               {featured.image ? (
@@ -43,14 +42,13 @@ export default async function BlogsPage({
               )}
             </div>
             <div className="flex flex-col justify-center p-8">
-              <span className="mb-2 text-xs font-semibold uppercase tracking-wide text-brand">Featured</span>
+              <span className="mb-2 text-xs font-semibold uppercase tracking-wide text-brand">{t('featured')}</span>
               <h2 className="text-2xl font-bold leading-snug text-ink group-hover:text-brand">{featured.title}</h2>
               <p className="mt-3 text-ink-soft">{featured.excerpt}</p>
-              <span className="mt-5 text-sm font-semibold text-brand">Read article →</span>
+              <span className="mt-5 text-sm font-semibold text-brand">{t('readArticle')}</span>
             </div>
           </Link>
 
-          {/* Grid */}
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
             {rest.map((post) => (
               <Link key={post.slug} href={`/blogs/${post.slug}`} className="group flex flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white transition hover:shadow-md">
@@ -69,7 +67,7 @@ export default async function BlogsPage({
                   </time>
                   <h3 className="mb-3 line-clamp-3 font-bold leading-snug text-ink group-hover:text-brand">{post.title}</h3>
                   <p className="line-clamp-2 flex-1 text-sm text-ink-soft">{post.excerpt}</p>
-                  <span className="mt-4 text-sm font-semibold text-brand">Read more →</span>
+                  <span className="mt-4 text-sm font-semibold text-brand">{tc('readMore')} →</span>
                 </div>
               </Link>
             ))}

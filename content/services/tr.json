@@ -1,0 +1,261 @@
+{
+  "remote-worker-visa-digital-nomad": {
+    "title": "Uzaktan Çalışan Vizesi (Dijital Göçebe)",
+    "tagline": "Yurt dışında bulunan bir şirket için uzaktan çalışırken Bali'de yaşayın.",
+    "intro": [
+      "Genellikle Dijital Göçebe Vizesi olarak adlandırılan Uzaktan Çalışan Vizesi, uzaktan çalışan profesyonellerin ülke dışında bulunan bir işverenden veya müşterilerden gelir elde ederken Indonesia'da yaşamalarına olanak tanır.",
+      "Bir yıla kadar geçerlidir ve birden fazla girişe izin verir; bu da kalışları sırasında Bali'ye girip çıkarak seyahat eden göçebeler için idealdir."
+    ],
+    "facts": [
+      {"label": "Geçerlilik", "value": "1 yıla kadar"},
+      {"label": "Giriş", "value": "Birden fazla"},
+      {"label": "Uygunluk", "value": "Indonesia dışı bir şirkette çalışıyor olmak"},
+      {"label": "Gelir vergisi", "value": "Yurt dışı gelir yerel olarak vergilendirilmez"}
+    ],
+    "includes": [
+      "Uygunluk değerlendirmesi ve belge kontrol listesi",
+      "Başvuru hazırlığı ve gönderimi",
+      "Sponsor ve göçmenlik irtibatı",
+      "Vize düzenlenene kadar durum güncellemeleri"
+    ],
+    "process": [
+      {"title": "Danışmanlık", "text": "Uygunluğunuzu doğrular ve ihtiyaç duyduğunuz belgeleri özetleriz."},
+      {"title": "Hazırlık", "text": "Ret riskini önlemek için başvurunuzu derler ve gözden geçiririz."},
+      {"title": "Gönderim", "text": "Göçmenlik birimine başvuruyu gönderir ve tüm takipleri yaparız."},
+      {"title": "Onay", "text": "Vizenizi alır ve Indonesia'ya giriş yapabilirsiniz."}
+    ]
+  },
+  "electronic-visa-on-arrival": {
+    "title": "Elektronik Kapıda Vize (e-VOA)",
+    "tagline": "Uçmadan önce çevrimiçi olarak ayarladığınız hızlı, tek girişli bir vize.",
+    "intro": [
+      "Elektronik Kapıda Vize (e-VOA), varış gününüz dahil 30 gün geçerli olan tek girişli bir vizedir.",
+      "Ülkeden çıkmadan bir kez daha 30 gün uzatılabilir; Bali'deki kısa konaklamalar ve tatiller için mükemmeldir."
+    ],
+    "facts": [
+      {"label": "Geçerlilik", "value": "30 gün"},
+      {"label": "Giriş", "value": "Tek"},
+      {"label": "Uzatma", "value": "Bir kez, +30 gün"},
+      {"label": "Başvuru", "value": "Çevrimiçi, varıştan önce"}
+    ],
+    "includes": [
+      "Baştan sona yönetilen e-VOA başvurusu",
+      "Belge doğrulama",
+      "Gerektiğinde uzatma işlemleri",
+      "Kalışınız boyunca destek"
+    ],
+    "process": [
+      {"title": "Çevrimiçi başvuru", "text": "Seyahat etmeden önce e-VOA'nızı hazırlar ve göndeririz."},
+      {"title": "e-VOA'yı alın", "text": "Onayınız e-posta ile gelir, varışta göstermeye hazırdır."},
+      {"title": "Uzatma (isteğe bağlı)", "text": "Indonesia içinde +30 günlük uzatmanızı hallederiz."}
+    ]
+  },
+  "multiple-entry-visas": {
+    "title": "Çok Girişli Vizeler",
+    "tagline": "Beş yıla kadar serbestçe gelip gidin.",
+    "intro": [
+      "Çok Girişli Vize, düzenlendiği tarihten itibaren 1, 2 veya 5 yıl geçerli kalır ve ziyaret başına 60 güne kadar kalışa izin verir.",
+      "Her kalış iki kez uzatılabilir ve ülkeden çıkma ihtiyacı olmadan her seferinde ek 60 gün sağlar; sık ziyaretçiler ve iş seyahati yapanlar için idealdir."
+    ],
+    "facts": [
+      {"label": "Geçerlilik", "value": "1, 2 veya 5 yıl"},
+      {"label": "Giriş", "value": "Birden fazla"},
+      {"label": "Ziyaret başına kalış", "value": "60 güne kadar"},
+      {"label": "Uzatmalar", "value": "İki kez, her biri +60 gün"}
+    ],
+    "includes": [
+      "Vize kategorisi danışmanlığı (iş / turizm / aile)",
+      "Tam başvuru hazırlığı ve gönderimi",
+      "Ülke içi uzatma desteği",
+      "Geçerlilik boyunca göçmenlik irtibatı"
+    ],
+    "process": [
+      {"title": "Danışmanlık", "text": "Sizi doğru çok girişli kategoriyle eşleştiririz."},
+      {"title": "Hazırlık", "text": "Sponsorunuzu ve destekleyici belgelerinizi hazırlarız."},
+      {"title": "Gönderim", "text": "Başvurunuzu gönderir ve takip ederiz."},
+      {"title": "Onay", "text": "Yıllarca kolay seyahat için geçerli bir vize alırsınız."}
+    ]
+  },
+  "single-entry-visas": {
+    "title": "Tek Girişli Vizeler",
+    "tagline": "Turizm, iş veya aile için Indonesia'da odaklı bir kalış için.",
+    "intro": [
+      "Tek Girişli Vize, turizm, iş toplantıları veya aile ziyareti gibi belirli bir amaç için Indonesia'ya bir kez giriş yapmanıza olanak tanır.",
+      "Kategoriye bağlı olarak kalışınızı uzatmak için uzatılabilir. Doğru türü seçmenize ve uzatmaları yönetmenize yardımcı oluruz."
+    ],
+    "facts": [
+      {"label": "Giriş", "value": "Tek"},
+      {"label": "Amaç", "value": "Turizm / İş / Aile"},
+      {"label": "Uzatma", "value": "Kategoriye göre mevcut"},
+      {"label": "Başvuru", "value": "Varıştan önce"}
+    ],
+    "includes": [
+      "Kategori seçimi ve uygunluk kontrolü",
+      "Başvuru hazırlığı ve gönderimi",
+      "Gerektiğinde sponsorluk",
+      "Uzatma işlemleri"
+    ],
+    "process": [
+      {"title": "Danışmanlık", "text": "Amacınıza uygun doğru tek girişli kategoriyi belirleriz."},
+      {"title": "Hazırlık", "text": "Belgelerinizi derler ve kontrol ederiz."},
+      {"title": "Gönderim", "text": "Başvuruyu gönderir ve süreci izleriz."},
+      {"title": "Onay", "text": "Doğru vize elinizde seyahat edersiniz."}
+    ]
+  },
+  "single-entry-tourist-visa-b211": {
+    "title": "Tek Girişli Turist Vizesi (B211)",
+    "tagline": "Bali'de daha uzun tatiller ve uzaktan konaklamalar için popüler vize.",
+    "intro": [
+      "B211, Indonesia'da kapıda vize süresinden daha uzun kalmak isteyen turistler ve uzaktan çalışanlar tarafından yaygın olarak kullanılan tek girişli bir vizedir.",
+      "Başlangıçta 60 gün geçerlidir ve uzatılabilir; bu da Bali'de uzatılmış bir kalışın keyfini çıkarmanız için esneklik sağlar."
+    ],
+    "facts": [
+      {"label": "Geçerlilik", "value": "60 gün"},
+      {"label": "Giriş", "value": "Tek"},
+      {"label": "Uzatma", "value": "Uzatılabilir"},
+      {"label": "En uygun", "value": "Uzun tatiller ve uzaktan konaklamalar"}
+    ],
+    "includes": [
+      "B211 sponsorluğu ve başvurusu",
+      "Belge hazırlığı ve incelemesi",
+      "Indonesia içinde uzatma işlemleri",
+      "Kalışınız boyunca sürekli destek"
+    ],
+    "process": [
+      {"title": "Sponsorluk", "text": "Gerekli sponsoru sağlar ve dosyanızı hazırlarız."},
+      {"title": "Gönderim", "text": "B211'inizi gönderir ve sizi güncel tutarız."},
+      {"title": "Varış", "text": "60 günlük kalışınız için Indonesia'ya giriş yaparsınız."},
+      {"title": "Uzatma", "text": "Daha uzun kalabilmeniz için vizenizi uzatırız."}
+    ]
+  },
+  "visa-on-arrival-extension": {
+    "title": "Kapıda Vize Uzatma",
+    "tagline": "Indonesia'dan çıkmadan 30 gün daha kalın.",
+    "intro": [
+      "Indonesia'ya Kapıda Vize ile giriş yaptıysanız, kalışınızı bir kez ek 30 gün uzatabilirsiniz.",
+      "Tüm uzatma sürecini yönetiriz — evrak işleri, göçmenlik ziyaretleri ve zamanlama — böylece Bali'nin keyfini kesintisiz çıkarmaya devam edebilirsiniz."
+    ],
+    "facts": [
+      {"label": "Uzatma", "value": "+30 gün"},
+      {"label": "Sıklık", "value": "VOA başına bir kez"},
+      {"label": "Gereksinim", "value": "Geçerli Kapıda Vize"},
+      {"label": "Süreç", "value": "Ülke içinde yürütülür"}
+    ],
+    "includes": [
+      "Uygunluk ve zamanlama kontrolü",
+      "Uzatma evraklarının hazırlanması",
+      "Göçmenlik ofisi işlemleri",
+      "Pasaport teslim alma koordinasyonu"
+    ],
+    "process": [
+      {"title": "Kontrol", "text": "VOA'nızın uygun olduğunu doğrular ve uzatmayı zamanlarız."},
+      {"title": "Gönderim", "text": "Uzatmayı göçmenlik birimine sunarız."},
+      {"title": "İşlem", "text": "Gereken göçmenlik ziyaretlerini yönetiriz."},
+      {"title": "Tamam", "text": "Kalışınız 30 gün uzatılır."}
+    ]
+  },
+  "investor-kitas": {
+    "title": "Yatırımcı KITAS",
+    "tagline": "Yabancı yatırımcılar ve şirket yöneticileri için bir oturma izni.",
+    "intro": [
+      "Yatırımcı KITAS, bir Indonesia şirketine (PT PMA) yatırım yapan veya bu şirkette yönetici/komiser rolü üstlenen yabancı uyruklular için verilen sınırlı süreli bir oturma iznidir.",
+      "Turist vizelerine göre daha uzun ve daha istikrarlı bir kalış sunar; uygun yatırımcılar için ayrı bir çalışma izni (IMTA) gerektirmez."
+    ],
+    "facts": [
+      {"label": "Tür", "value": "Sınırlı süreli oturma izni (KITAS)"},
+      {"label": "Geçerlilik", "value": "1–2 yıl, yenilenebilir"},
+      {"label": "Kimler için", "value": "Yatırımcılar ve şirket yöneticileri"},
+      {"label": "Gereksinim", "value": "Indonesia'da bir PT PMA"}
+    ],
+    "includes": [
+      "PT PMA kuruluş rehberliği (gerekirse)",
+      "Yatırımcı KITAS başvurusu ve sponsorluğu",
+      "Göçmenlik işlemleri ve biyometri",
+      "Yenileme desteği"
+    ],
+    "process": [
+      {"title": "Şirket", "text": "PT PMA'nızın ve hisse yapınızın gereklilikleri karşıladığından emin oluruz."},
+      {"title": "Başvuru", "text": "Yatırımcı KITAS'ınızı hazırlar ve göndeririz."},
+      {"title": "İşlem", "text": "Göçmenlik adımlarını ve biyometriyi yönetiriz."},
+      {"title": "Düzenlendi", "text": "Çok yıllı bir oturma izni alırsınız."}
+    ]
+  },
+  "working-kitas": {
+    "title": "Çalışma KITAS",
+    "tagline": "Yerel bir sponsor altında Indonesia'da yasal olarak yaşayın ve çalışın.",
+    "intro": [
+      "Çalışma KITAS, yabancı profesyonellerin bir Indonesia şirketi tarafından sponsor edilerek Indonesia'da yasal olarak istihdam edilmesine olanak tanır.",
+      "Çalışma iznini ve oturma iznini bir araya getirir; böylece içiniz rahat şekilde çalışabilirsiniz. Süreci işvereninizle koordine ederiz."
+    ],
+    "facts": [
+      {"label": "Tür", "value": "Çalışma + oturma izni"},
+      {"label": "Geçerlilik", "value": "6–12 ay, yenilenebilir"},
+      {"label": "Kimler için", "value": "Yabancı çalışanlar"},
+      {"label": "Gereksinim", "value": "Sponsor bir şirket"}
+    ],
+    "includes": [
+      "Çalışma izni (IMTA) ve KITAS işlemleri",
+      "İşveren ve göçmenlik koordinasyonu",
+      "Biyometri ve raporlama",
+      "Yenileme ve aile ekleme seçenekleri"
+    ],
+    "process": [
+      {"title": "Sponsor", "text": "Belgeleri sponsor işvereninizle uyumlu hale getiririz."},
+      {"title": "İzin", "text": "Çalışma iznini ve KITAS'ı birlikte işleme alırız."},
+      {"title": "Biyometri", "text": "Göçmenlik adımlarını planlar ve yönetiriz."},
+      {"title": "Düzenlendi", "text": "Yasal olarak yaşamak ve çalışmak için onay alırsınız."}
+    ]
+  },
+  "family-kitas": {
+    "title": "Aile KITAS",
+    "tagline": "Ailenizi Indonesia'da bir arada tutun.",
+    "intro": [
+      "Aile KITAS, KITAS sahiplerinin veya Indonesia vatandaşlarının eşlerinin ve çocuklarının bakmakla yükümlü olunan kişiler olarak Indonesia'da yasal olarak kalmasına olanak tanır.",
+      "Aile sponsoruna bağlı istikrarlı, yenilenebilir bir kalış sağlar; böylece sevdikleriniz sizinle birlikte Bali'ye yerleşebilir."
+    ],
+    "facts": [
+      {"label": "Tür", "value": "Bağımlı oturma izni"},
+      {"label": "Geçerlilik", "value": "1 yıl, yenilenebilir"},
+      {"label": "Kimler için", "value": "Eşler ve çocuklar"},
+      {"label": "Sponsor", "value": "KITAS sahibi veya Indonesia vatandaşı eş"}
+    ],
+    "includes": [
+      "Bağımlı uygunluk değerlendirmesi",
+      "Aile KITAS başvurusu ve sponsorluğu",
+      "Göçmenlik işlemleri",
+      "Yenileme desteği"
+    ],
+    "process": [
+      {"title": "Değerlendirme", "text": "Sponsoru ve bağımlı uygunluğunu doğrularız."},
+      {"title": "Başvuru", "text": "Aile başvurusunu hazırlar ve göndeririz."},
+      {"title": "İşlem", "text": "Göçmenlik ve biyometriyi yönetiriz."},
+      {"title": "Düzenlendi", "text": "Aileniz oturma izinlerini alır."}
+    ]
+  },
+  "retirement-kitas": {
+    "title": "Emeklilik KITAS",
+    "tagline": "Emekliliğinizin keyfini cennette, yasal ve stressiz bir şekilde çıkarın.",
+    "intro": [
+      "Emeklilik KITAS, Indonesia'da emekli olmak isteyen 55 yaş ve üzeri yabancı uyruklular için tasarlanmıştır.",
+      "Yenilenebilir bir kalış sağlar ve zamanla daha uzun süreli bir KITAP'a yol açabilir. Gereklilikleri biz hallederiz, böylece siz Bali'nin keyfini çıkarmaya odaklanabilirsiniz."
+    ],
+    "facts": [
+      {"label": "Tür", "value": "Emeklilik oturma izni"},
+      {"label": "Geçerlilik", "value": "1 yıl, yenilenebilir"},
+      {"label": "Asgari yaş", "value": "55 yaş"},
+      {"label": "Yol", "value": "KITAP'a doğru yenilenebilir"}
+    ],
+    "includes": [
+      "Uygunluk ve gereksinim rehberliği",
+      "Emeklilik KITAS başvurusu ve sponsorluğu",
+      "Göçmenlik işlemleri",
+      "Yenileme ve KITAP yol haritası"
+    ],
+    "process": [
+      {"title": "Uygunluk", "text": "Yaş ve gereksinim ayrıntılarını doğrularız."},
+      {"title": "Başvuru", "text": "Emeklilik izninizi hazırlar ve göndeririz."},
+      {"title": "İşlem", "text": "Göçmenlik adımlarını sizin için yönetiriz."},
+      {"title": "Düzenlendi", "text": "Bali'de emekliliğinize yerleşirsiniz."}
+    ]
+  }
+}

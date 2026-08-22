@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import {useTranslations} from 'next-intl';
 import {Link} from '@/i18n/navigation';
 
 export default function PageHero({
@@ -14,13 +15,14 @@ export default function PageHero({
   eyebrow?: string;
   crumb?: string;
 }) {
+  const t = useTranslations('ui');
   return (
     <section className="relative flex min-h-[52vh] items-center pt-20">
       <Image src={image} alt="" fill priority className="object-cover" />
       <div className="absolute inset-0 bg-gradient-to-r from-brand-900/90 via-brand-900/70 to-brand-900/40" />
       <div className="container-dni relative py-16 text-white">
         <nav className="mb-4 flex items-center gap-2 text-sm text-white/70">
-          <Link href="/" className="hover:text-white">Home</Link>
+          <Link href="/" className="hover:text-white">{t('home')}</Link>
           <span>/</span>
           <span className="text-white/90">{crumb ?? title}</span>
         </nav>

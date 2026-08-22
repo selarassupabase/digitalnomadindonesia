@@ -184,5 +184,64 @@
   "privacy": {
     "hero": "Privacy Policy",
     "updated": "Last updated: July 2025"
+  },
+  "ui": {
+    "home": "Home",
+    "backToHome": "Back to Home",
+    "notFoundTitle": "Page not found",
+    "notFoundText": "The page you're looking for doesn't exist or may have moved.",
+    "whyChooseUs": "Why choose us"
+  },
+  "service": {
+    "included": "What's included",
+    "howItWorks": "How it works",
+    "quickFacts": "Quick facts",
+    "otherServices": "Other services",
+    "needTitle": "Need this visa?",
+    "needText": "Talk to our team and we'll handle the paperwork end to end.",
+    "getInTouch": "Get in Touch"
+  },
+  "visaPage": {
+    "heroTitle": "Visa & Stay Permit Services",
+    "heroTagline": "From short holidays to long-term residence — we manage every step with immigration so you don't have to.",
+    "visas": "Visas",
+    "visasIntro": "Short and mid-term visas for tourism, business and remote work in Indonesia.",
+    "kitasTitle": "KITAS (Stay Permits)",
+    "kitasIntro": "Limited-stay permits for investors, professionals, families and retirees."
+  },
+  "legal": {
+    "heroTitle": "Legal Services",
+    "heroTagline": "Company setup, tax and compliance for foreigners doing business in Indonesia — handled by specialists.",
+    "title": "Everything you need to operate legally",
+    "intro": "Whether you're launching a PT PMA or need a single document legalized, our legal team makes the process straightforward.",
+    "items": [
+      {"title": "PT PMA Company Setup", "text": "Establish a foreign-owned limited liability company (PT PMA) with the right business classification, capital structure and licensing."},
+      {"title": "Company Registration", "text": "End-to-end incorporation: deed of establishment, NIB, business licenses and all supporting registrations."},
+      {"title": "Tax ID (NPWP)", "text": "Obtain your personal or corporate NPWP and stay compliant with Indonesian tax obligations."},
+      {"title": "Virtual Office", "text": "A registered business address in a strategic location — the practical, affordable base for your company."},
+      {"title": "Sworn & Certified Translation", "text": "Legally recognized translations of official documents by sworn translators."},
+      {"title": "Document Legalization", "text": "Notarization and legalization of documents for use with Indonesian authorities and abroad."}
+    ]
+  },
+  "travel": {
+    "heroTitle": "Travel & Tour",
+    "heroTagline": "Make the most of Bali — curated tours, transfers and experiences, all arranged by our travel team.",
+    "title": "Experiences across the island",
+    "intro": "From a single airport pickup to a fully planned week, we take care of the details so you can enjoy Bali.",
+    "items": [
+      {"title": "Private Bali Tours", "text": "Explore temples, rice terraces, waterfalls and beaches with a private driver and guide."},
+      {"title": "Airport Transfers", "text": "Reliable, comfortable pickups and drop-offs across Bali, arranged in advance."},
+      {"title": "Tailor-Made Itineraries", "text": "Custom multi-day trips built around your interests, schedule and budget."},
+      {"title": "Adventure & Activities", "text": "Surfing, diving, volcano treks, yoga retreats and more — booked and coordinated for you."},
+      {"title": "Island Hopping", "text": "Trips to Nusa Penida, the Gili Islands and beyond, with transport and logistics handled."},
+      {"title": "Group & Team Trips", "text": "Retreats and outings for co-working communities, teams and groups of friends."}
+    ]
+  },
+  "blogPage": {
+    "heroTitle": "Blogs & Guides",
+    "heroTagline": "Immigration updates, visa guides and practical advice for living and working in Indonesia.",
+    "featured": "Featured",
+    "readArticle": "Read article →",
+    "moreArticles": "More articles"
   }
 }

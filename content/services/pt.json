@@ -1,0 +1,261 @@
+{
+  "remote-worker-visa-digital-nomad": {
+    "title": "Visto de Trabalhador Remoto (Nômade Digital)",
+    "tagline": "Viva em Bali enquanto trabalha remotamente para uma empresa sediada no exterior.",
+    "intro": [
+      "O Visto de Trabalhador Remoto — muitas vezes chamado de Visto de Nômade Digital — permite que profissionais remotos vivam na Indonesia enquanto recebem rendimentos de um empregador ou clientes localizados fora do país.",
+      "É válido por até um ano e permite múltiplas entradas, tornando-o ideal para nômades que viajam para dentro e fora de Bali durante a sua estadia."
+    ],
+    "facts": [
+      {"label": "Validade", "value": "Até 1 ano"},
+      {"label": "Entradas", "value": "Múltiplas"},
+      {"label": "Elegibilidade", "value": "Empregado por uma empresa não indonésia"},
+      {"label": "Imposto de renda", "value": "Rendimentos estrangeiros não tributados localmente"}
+    ],
+    "includes": [
+      "Avaliação de elegibilidade e lista de documentos",
+      "Preparação e submissão da candidatura",
+      "Ligação com o patrocinador e a imigração",
+      "Atualizações de status até a emissão do visto"
+    ],
+    "process": [
+      {"title": "Consulta", "text": "Confirmamos a sua elegibilidade e detalhamos os documentos de que você precisa."},
+      {"title": "Preparação", "text": "Compilamos e revisamos a sua candidatura para evitar rejeições."},
+      {"title": "Submissão", "text": "Submetemos à imigração e cuidamos de todos os acompanhamentos."},
+      {"title": "Aprovação", "text": "Você recebe o seu visto e pode entrar na Indonesia."}
+    ]
+  },
+  "electronic-visa-on-arrival": {
+    "title": "Visto Eletrônico na Chegada (e-VOA)",
+    "tagline": "Um visto rápido de entrada única que você organiza online antes de voar.",
+    "intro": [
+      "O Visto Eletrônico na Chegada (e-VOA) é um visto de entrada única válido por 30 dias, incluindo o seu dia de chegada.",
+      "Ele pode ser estendido uma vez por mais 30 dias sem sair do país — perfeito para estadias curtas e férias em Bali."
+    ],
+    "facts": [
+      {"label": "Validade", "value": "30 dias"},
+      {"label": "Entradas", "value": "Única"},
+      {"label": "Extensão", "value": "Uma vez, +30 dias"},
+      {"label": "Solicitado", "value": "Online, antes da chegada"}
+    ],
+    "includes": [
+      "Candidatura de e-VOA tratada de ponta a ponta",
+      "Verificação de documentos",
+      "Processamento da extensão quando necessário",
+      "Suporte durante toda a sua estadia"
+    ],
+    "process": [
+      {"title": "Solicitar online", "text": "Preparamos e submetemos o seu e-VOA antes de você viajar."},
+      {"title": "Receber o e-VOA", "text": "A sua aprovação chega por e-mail, pronta para ser apresentada na chegada."},
+      {"title": "Estender (opcional)", "text": "Tratamos da sua extensão de +30 dias dentro da Indonesia."}
+    ]
+  },
+  "multiple-entry-visas": {
+    "title": "Vistos de Múltiplas Entradas",
+    "tagline": "Entre e saia livremente por até cinco anos.",
+    "intro": [
+      "O Visto de Múltiplas Entradas permanece válido por 1, 2 ou 5 anos a partir da data de emissão e permite estadias de até 60 dias por visita.",
+      "Cada estadia pode ser estendida duas vezes, concedendo 60 dias extras a cada vez sem a necessidade de sair do país — ideal para visitantes frequentes e viajantes de negócios."
+    ],
+    "facts": [
+      {"label": "Validade", "value": "1, 2 ou 5 anos"},
+      {"label": "Entradas", "value": "Múltiplas"},
+      {"label": "Estadia por visita", "value": "Até 60 dias"},
+      {"label": "Extensões", "value": "Duas vezes, +60 dias cada"}
+    ],
+    "includes": [
+      "Aconselhamento sobre a categoria de visto (negócios / turismo / família)",
+      "Preparação e submissão completa da candidatura",
+      "Suporte de extensão dentro do país",
+      "Ligação com a imigração durante toda a validade"
+    ],
+    "process": [
+      {"title": "Consulta", "text": "Encontramos a categoria de múltiplas entradas certa para você."},
+      {"title": "Preparação", "text": "Preparamos o seu patrocinador e os documentos de apoio."},
+      {"title": "Submissão", "text": "Submetemos e acompanhamos a sua candidatura."},
+      {"title": "Aprovação", "text": "Você recebe um visto válido por anos de viagens tranquilas."}
+    ]
+  },
+  "single-entry-visas": {
+    "title": "Vistos de Entrada Única",
+    "tagline": "Para uma estadia focada na Indonesia para turismo, negócios ou família.",
+    "intro": [
+      "Um Visto de Entrada Única permite uma entrada na Indonesia para um propósito definido, como turismo, reuniões de negócios ou visita a familiares.",
+      "Dependendo da categoria, ele pode ser estendido para prolongar a sua estadia. Ajudamos você a escolher o tipo certo e a gerenciar as extensões."
+    ],
+    "facts": [
+      {"label": "Entradas", "value": "Única"},
+      {"label": "Propósito", "value": "Turismo / Negócios / Família"},
+      {"label": "Extensão", "value": "Disponível conforme a categoria"},
+      {"label": "Solicitado", "value": "Antes da chegada"}
+    ],
+    "includes": [
+      "Seleção de categoria e verificação de elegibilidade",
+      "Preparação e submissão da candidatura",
+      "Patrocínio quando necessário",
+      "Tratamento da extensão"
+    ],
+    "process": [
+      {"title": "Consulta", "text": "Identificamos a categoria de entrada única correta para o seu objetivo."},
+      {"title": "Preparação", "text": "Reunimos e verificamos os seus documentos."},
+      {"title": "Submissão", "text": "Submetemos e monitoramos o progresso."},
+      {"title": "Aprovação", "text": "Você viaja com o visto certo em mãos."}
+    ]
+  },
+  "single-entry-tourist-visa-b211": {
+    "title": "Visto de Turista de Entrada Única (B211)",
+    "tagline": "O visto popular para férias mais longas e estadias remotas em Bali.",
+    "intro": [
+      "O B211 é um visto de entrada única amplamente utilizado por turistas e trabalhadores remotos que desejam permanecer na Indonesia por mais tempo do que o período do visto na chegada.",
+      "Ele é inicialmente válido por 60 dias e pode ser estendido, dando a você a flexibilidade de aproveitar uma estadia prolongada em Bali."
+    ],
+    "facts": [
+      {"label": "Validade", "value": "60 dias"},
+      {"label": "Entradas", "value": "Única"},
+      {"label": "Extensão", "value": "Extensível"},
+      {"label": "Melhor para", "value": "Férias longas e estadias remotas"}
+    ],
+    "includes": [
+      "Patrocínio e candidatura do B211",
+      "Preparação e revisão de documentos",
+      "Processamento da extensão dentro da Indonesia",
+      "Suporte contínuo durante a sua estadia"
+    ],
+    "process": [
+      {"title": "Patrocínio", "text": "Fornecemos o patrocinador exigido e preparamos o seu dossiê."},
+      {"title": "Submissão", "text": "Submetemos o seu B211 e mantemos você atualizado."},
+      {"title": "Chegada", "text": "Você entra na Indonesia para a sua estadia de 60 dias."},
+      {"title": "Extensão", "text": "Estendemos o seu visto para que você possa ficar mais tempo."}
+    ]
+  },
+  "visa-on-arrival-extension": {
+    "title": "Extensão do Visto na Chegada",
+    "tagline": "Fique 30 dias a mais sem sair da Indonesia.",
+    "intro": [
+      "Se você entrou na Indonesia com um Visto na Chegada, pode estender a sua estadia uma vez por mais 30 dias.",
+      "Gerenciamos todo o processo de extensão — papelada, visitas à imigração e prazos — para que você possa continuar aproveitando Bali sem interrupções."
+    ],
+    "facts": [
+      {"label": "Extensão", "value": "+30 dias"},
+      {"label": "Frequência", "value": "Uma vez por VOA"},
+      {"label": "Requisito", "value": "Visto na Chegada válido"},
+      {"label": "Processo", "value": "Tratado dentro do país"}
+    ],
+    "includes": [
+      "Verificação de elegibilidade e prazos",
+      "Preparação da papelada de extensão",
+      "Tratamento junto ao escritório de imigração",
+      "Coordenação da coleta do passaporte"
+    ],
+    "process": [
+      {"title": "Verificação", "text": "Confirmamos que o seu VOA é elegível e programamos a extensão."},
+      {"title": "Submeter", "text": "Registramos a extensão junto à imigração."},
+      {"title": "Processar", "text": "Gerenciamos quaisquer visitas necessárias à imigração."},
+      {"title": "Concluído", "text": "A sua estadia é estendida por 30 dias."}
+    ]
+  },
+  "investor-kitas": {
+    "title": "KITAS de Investidor",
+    "tagline": "Uma autorização de residência para investidores estrangeiros e diretores de empresas.",
+    "intro": [
+      "O KITAS de Investidor é uma autorização de estadia limitada para cidadãos estrangeiros que investem ou ocupam um cargo de diretor/comissário em uma empresa indonésia (PT PMA).",
+      "Ele oferece uma estadia mais longa e estável do que os vistos de turista, sem a exigência de uma autorização de trabalho separada (IMTA) para investidores elegíveis."
+    ],
+    "facts": [
+      {"label": "Tipo", "value": "Autorização de estadia limitada (KITAS)"},
+      {"label": "Validade", "value": "1–2 anos, renovável"},
+      {"label": "Para", "value": "Investidores e diretores de empresas"},
+      {"label": "Exige", "value": "Uma PT PMA na Indonesia"}
+    ],
+    "includes": [
+      "Orientação para a constituição de uma PT PMA (se necessário)",
+      "Candidatura e patrocínio do KITAS de Investidor",
+      "Processamento de imigração e biometria",
+      "Suporte de renovação"
+    ],
+    "process": [
+      {"title": "Empresa", "text": "Garantimos que a sua PT PMA e a sua participação acionária atendam aos requisitos."},
+      {"title": "Candidatura", "text": "Preparamos e submetemos o seu KITAS de Investidor."},
+      {"title": "Processamento", "text": "Gerenciamos as etapas de imigração e a biometria."},
+      {"title": "Emitido", "text": "Você recebe uma autorização de estadia de vários anos."}
+    ]
+  },
+  "working-kitas": {
+    "title": "KITAS de Trabalho",
+    "tagline": "Viva e trabalhe legalmente na Indonesia sob um patrocinador local.",
+    "intro": [
+      "O KITAS de Trabalho permite que profissionais estrangeiros sejam legalmente empregados na Indonesia, patrocinados por uma empresa indonésia.",
+      "Ele reúne a autorização de trabalho e a autorização de estadia para que você possa trabalhar com tranquilidade. Coordenamos o processo com o seu empregador."
+    ],
+    "facts": [
+      {"label": "Tipo", "value": "Autorização de trabalho + estadia"},
+      {"label": "Validade", "value": "6–12 meses, renovável"},
+      {"label": "Para", "value": "Funcionários estrangeiros"},
+      {"label": "Exige", "value": "Uma empresa patrocinadora"}
+    ],
+    "includes": [
+      "Processamento da autorização de trabalho (IMTA) e do KITAS",
+      "Coordenação com o empregador e a imigração",
+      "Biometria e relatórios",
+      "Opções de renovação e inclusão de familiares"
+    ],
+    "process": [
+      {"title": "Patrocinador", "text": "Alinhamos os documentos com o seu empregador patrocinador."},
+      {"title": "Autorização", "text": "Processamos a autorização de trabalho e o KITAS juntos."},
+      {"title": "Biometria", "text": "Agendamos e gerenciamos as etapas de imigração."},
+      {"title": "Emitido", "text": "Você está autorizado a viver e trabalhar legalmente."}
+    ]
+  },
+  "family-kitas": {
+    "title": "KITAS de Família",
+    "tagline": "Mantenha a sua família unida na Indonesia.",
+    "intro": [
+      "O KITAS de Família permite que cônjuges e filhos de titulares de KITAS ou de cidadãos indonésios permaneçam legalmente na Indonesia como dependentes.",
+      "Ele proporciona uma estadia estável e renovável vinculada ao patrocinador familiar, para que os seus entes queridos possam se estabelecer com você em Bali."
+    ],
+    "facts": [
+      {"label": "Tipo", "value": "Autorização de estadia para dependentes"},
+      {"label": "Validade", "value": "1 ano, renovável"},
+      {"label": "Para", "value": "Cônjuges e filhos"},
+      {"label": "Patrocinador", "value": "Titular de KITAS ou cônjuge indonésio"}
+    ],
+    "includes": [
+      "Avaliação de elegibilidade dos dependentes",
+      "Candidatura e patrocínio do KITAS de Família",
+      "Processamento de imigração",
+      "Suporte de renovação"
+    ],
+    "process": [
+      {"title": "Avaliar", "text": "Confirmamos a elegibilidade do patrocinador e dos dependentes."},
+      {"title": "Candidatar", "text": "Preparamos e submetemos a candidatura familiar."},
+      {"title": "Processar", "text": "Tratamos da imigração e da biometria."},
+      {"title": "Emitido", "text": "A sua família recebe as suas autorizações de estadia."}
+    ]
+  },
+  "retirement-kitas": {
+    "title": "KITAS de Aposentadoria",
+    "tagline": "Aproveite a sua aposentadoria no paraíso, de forma legal e sem estresse.",
+    "intro": [
+      "O KITAS de Aposentadoria é destinado a cidadãos estrangeiros com 55 anos ou mais que desejam se aposentar na Indonesia.",
+      "Ele concede uma estadia renovável e, com o tempo, pode levar a um KITAP de prazo mais longo. Cuidamos dos requisitos para que você possa se concentrar em aproveitar Bali."
+    ],
+    "facts": [
+      {"label": "Tipo", "value": "Autorização de estadia para aposentadoria"},
+      {"label": "Validade", "value": "1 ano, renovável"},
+      {"label": "Idade mínima", "value": "55 anos"},
+      {"label": "Caminho", "value": "Renovável rumo ao KITAP"}
+    ],
+    "includes": [
+      "Orientação sobre elegibilidade e requisitos",
+      "Candidatura e patrocínio do KITAS de Aposentadoria",
+      "Processamento de imigração",
+      "Renovação e roteiro para o KITAP"
+    ],
+    "process": [
+      {"title": "Elegibilidade", "text": "Confirmamos a idade e os detalhes dos requisitos."},
+      {"title": "Candidatura", "text": "Preparamos e submetemos a sua autorização de aposentadoria."},
+      {"title": "Processamento", "text": "Gerenciamos as etapas de imigração para você."},
+      {"title": "Emitido", "text": "Você se estabelece na aposentadoria em Bali."}
+    ]
+  }
+}

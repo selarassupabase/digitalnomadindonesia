@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import Image from 'next/image';
 import {notFound} from 'next/navigation';
-import {setRequestLocale} from 'next-intl/server';
+import {setRequestLocale, getTranslations} from 'next-intl/server';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import {Link} from '@/i18n/navigation';
@@ -16,13 +16,23 @@ export function generateStaticParams() {
   return posts.map((p) => ({slug: p.slug}));
 }
 
-function getBody(slug: string): string | null {
-  const file = path.join(process.cwd(), 'content', 'blog', `${slug}.md`);
-  try {
-    return fs.readFileSync(file, 'utf8');
-  } catch {
-    return null;
+// Prefer a translated article (content/blog/<locale>/<slug>.md), fall back to English.
+function getBody(locale: string, slug: string): string | null {
+  const candidates =
+    locale === 'en'
+      ? [path.join(process.cwd(), 'content', 'blog', `${slug}.md`)]
+      : [
+          path.join(process.cwd(), 'content', 'blog', locale, `${slug}.md`),
+          path.join(process.cwd(), 'content', 'blog', `${slug}.md`)
+        ];
+  for (const file of candidates) {
+    try {
+      return fs.readFileSync(file, 'utf8');
+    } catch {
+      /* try next */
+    }
   }
+  return null;
 }
 
 export async function generateMetadata({
@@ -46,12 +56,12 @@ export default async function BlogPostPage({
   const post = posts.find((p) => p.slug === slug);
   if (!post) notFound();
 
-  const body = getBody(slug);
+  const body = getBody(locale, slug);
   const related = posts.filter((p) => p.slug !== slug).slice(0, 3);
+  const t = await getTranslations('blogPage');
 
   return (
     <>
-      {/* Header */}
       <article>
         <header className="relative flex min-h-[46vh] items-center pt-20">
           {post.image ? (
@@ -73,7 +83,6 @@ export default async function BlogPostPage({
           </div>
         </header>
 
-        {/* Body */}
         <div className="py-14">
           <div className="container-dni prose-dni max-w-3xl">
             {body ? (
@@ -85,10 +94,9 @@ export default async function BlogPostPage({
         </div>
       </article>
 
-      {/* Related */}
       <section className="border-t border-slate-100 bg-slate-50 py-16">
         <div className="container-dni">
-          <h2 className="mb-8 text-2xl font-bold text-ink">More articles</h2>
+          <h2 className="mb-8 text-2xl font-bold text-ink">{t('moreArticles')}</h2>
           <div className="grid gap-6 md:grid-cols-3">
             {related.map((p) => (
               <Link key={p.slug} href={`/blogs/${p.slug}`} className="group rounded-2xl border border-slate-200 bg-white p-6 transition hover:shadow-md">

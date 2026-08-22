@@ -2,12 +2,12 @@
   "nav": {
     "visaService": "Vize Hizmeti",
     "legalServices": "Hukuki Hizmetler",
-    "travelTour": "Seyahat & Tur",
+    "travelTour": "Seyahat ve Tur",
     "about": "Hakkımızda",
     "blogs": "Bloglar",
-    "contact": "Bize Ulaşın",
+    "contact": "İletişim",
     "faq": "SSS",
-    "getInTouch": "İletişime Geçin"
+    "getInTouch": "Bize Ulaşın"
   },
   "common": {
     "learnMore": "Daha Fazla Bilgi",
@@ -19,66 +19,66 @@
   "home": {
     "hero": {
       "title": "Bali'de Sorunsuz Yaşayın ve Çalışın",
-      "subtitle": "Takımadaların tropik cenneti Bali'de zahmetsiz seyahatin ve uzaktan çalışmanın heyecanını yaşayın.",
+      "subtitle": "Takımadaların tropik cenneti Bali'de zahmetsiz yolculuğun ve uzaktan çalışmanın heyecanını yaşayın.",
       "ctaPrimary": "Vize Seçeneklerini Keşfedin",
       "ctaSecondary": "Bizimle Konuşun"
     },
     "about": {
       "eyebrow": "DNI Nedir?",
-      "text": "Digital Nomad Indonesia, sürdürülebilir uygulamalar, kültürel değişim, topluluk katılımı ve kaynaklar ile ağ oluşturma fırsatları sunarak Indonesia'daki uzaktan çalışanları güçlendirmeyi amaçlar."
+      "text": "Digital Nomad Indonesia, sürdürülebilir uygulamalar, kültürel alışveriş, topluluk katılımı ve kaynaklar ile ağ oluşturma fırsatları sunarak Endonezya'daki uzaktan çalışanları güçlendirmeyi amaçlar."
     },
     "why": {
-      "title": "Neden Bali'yi Seçmelisiniz?",
+      "title": "Neden Bali?",
       "items": [
         {
           "title": "Muhteşem Manzaralar, Kartpostal Gibi Plajlar",
-          "text": "Sonsuza dek uzanan yemyeşil pirinç tarlalarını keşfedin, yoğun ormanda maceraya atılın, hatta bir yanardağa tırmanın. Okyanusun derinliklerine açılarak tüplü dalış veya şnorkelle dalış gibi su sporlarına katılın."
+          "text": "Sonsuza dek uzanan yemyeşil pirinç tarlalarını keşfedin, yoğun ormanda maceraya atılın veya bir yanardağa tırmanın. Okyanusun derinliklerine açılın ve tüplü dalış ya da şnorkelle dalış gibi su sporlarına katılın."
         },
         {
-          "title": "Kendine Özgü Sanat Formları ve Canlı Bir Toplum",
-          "text": "Balililerin pozitif enerjisini ve coşkusunu, kendine özgü kültürlerinin neredeyse her yönünde hissedebilirsiniz — bu kültür, dünyanın dört bir yanından sanatçıları ve yoga ile farkındalıkla ilgilenenleri kendine çeker."
+          "title": "Kendine Özgü Sanat Biçimleri ve Canlı Bir Toplum",
+          "text": "Bali halkının pozitif enerjisini ve coşkusunu, kendine özgü kültürünün neredeyse her yönünde hissedebilirsiniz — dünyanın dört bir yanından sanatçıları, yoga ve farkındalıkla ilgilenenleri kendine çeken bir kültür."
         },
         {
           "title": "Kanıtlanmış Bir Turistik Cazibe Merkezi",
-          "text": "Bali, ister sadece uğrayıp geçiyor olun ister burayı kalıcı bir yuva yapıp göçebe hayatı yaşamak isteyin, her açıdan elverişlidir. Gelişmiş bölgeler, çalışmak veya konaklamak için mükemmel yerler sunar."
+          "text": "İster sadece uğrayın ister burayı kalıcı bir yuva yapıp göçebe yaşamı sürün, Bali her açıdan elverişlidir. Gelişmiş bölgeler, çalışmak veya konaklamak için mükemmel yerler sunar."
         }
       ]
     },
     "cost": {
       "title": "Yaşam Maliyeti",
-      "text": "Nispeten düşük yaşam maliyeti, Bali'nin bir başka harika yönüdür. Bütçeniz kısıtlıysa, bir dolara akşam yemeği ve beş dolara bir hostel yatağı bulabilirsiniz. Uzun konaklamalarda iki yatak odalı bir villa aylık yalnızca 500 dolara sizin olabilir — ve orta düzey bir bütçeyle aylık 1.000 dolar fazlasıyla yeterli olacaktır."
+      "text": "Görece düşük yaşam maliyeti, Bali'nin bir başka harika yönüdür. Bütçeniz kısıtlıysa, bir dolara akşam yemeği ve beş dolara hostel yatağı bulabilirsiniz. Uzun süreli konaklamalarda iki yatak odalı bir villa aylık 500 dolar gibi düşük bir fiyata sizin olabilir — orta düzey bir bütçeyle aylık 1.000 dolar fazlasıyla yeterli olacaktır."
     },
     "visa": {
-      "title": "Bali'deki Dijital Göçebeler İçin Vize Seçenekleri",
-      "subtitle": "Bali'deki çalışma tatilinize gitmeden önce tüm belgelerinizin hazır olduğundan emin olun.",
+      "title": "Bali'deki Dijital Göçebeler için Vize Seçenekleri",
+      "subtitle": "Bali'deki çalışma tatilinize çıkmadan önce tüm belgelerinizi eksiksiz hazırladığınızdan emin olun.",
       "items": [
         {
           "title": "Uzaktan Çalışan Vizesi",
-          "text": "Indonesia dışında bulunan şirketlerde çalışan uzaktan çalışanlar için, çoklu girişle en fazla bir yıl geçerlidir.",
+          "text": "Endonezya dışındaki şirketlerde çalışan uzaktan çalışanlar için, çoklu girişli ve en fazla bir yıl geçerli vize.",
           "href": "/remote-worker-visa-digital-nomad"
         },
         {
-          "title": "Elektronik Varışta Vize",
-          "text": "Varış günü dahil 30 gün geçerli tek girişli bir vizedir. Bir kez daha 30 gün için uzatılabilir.",
+          "title": "Elektronik Kapıda Vize",
+          "text": "Geliş günü dahil 30 gün geçerli tek girişli bir vize. Bir kez daha 30 gün için uzatılabilir.",
           "href": "/electronic-visa-on-arrival"
         },
         {
-          "title": "Çoklu Giriş Vizeleri",
-          "text": "1, 2 veya 5 yıl geçerli, en fazla 60 günlük konaklamalara izin veren, ülkeden çıkmadan her biri 60 gün olmak üzere iki kez uzatılabilen çoklu girişli bir vizedir.",
+          "title": "Çoklu Girişli Vizeler",
+          "text": "1, 2 veya 5 yıl geçerli, en fazla 60 güne kadar konaklamaya izin veren ve ülkeden çıkmadan her biri 60 gün olacak şekilde iki kez uzatılabilen çoklu girişli bir vize.",
           "href": "/multiple-entry-visas"
         }
       ]
     },
     "destinations": {
-      "title": "Bali'deki Dijital Göçebeler İçin En İyi Destinasyonlar",
+      "title": "Bali'deki Dijital Göçebeler için En İyi Destinasyonlar",
       "items": [
         {
           "name": "Canggu",
-          "text": "Seminyak'ın hemen kuzeyinde yer alan küçük bir kasaba ve 8 km'lik bir kıyı şeridi olup, 1970'lerden bu yana önde gelen bir sörf destinasyonu olarak kabul edilir. Bol miktarda ortak çalışma ve ortak yaşam alanı ile rahat sörfçü ritimleri sayesinde, birçok kişi burayı bir dijital göçebe için mükemmel destinasyon olarak nitelendirir."
+          "text": "Seminyak'ın hemen kuzeyinde yer alan küçük bir kasaba ve 8 km'lik bir sahil şeridi; 1970'lerden bu yana en iyi sörf destinasyonlarından biri olarak kabul edilir. Bol miktarda ortak çalışma ve ortak yaşam alanı ile rahat sörfçü ritmiyle, birçok kişi burayı bir dijital göçebe için mükemmel destinasyon olarak nitelendirir."
         },
         {
           "name": "Ubud",
-          "text": "Daha huzurlu bir yer arıyorsanız en iyi tercih. Sakin havasıyla bilinen bu yerde, huzur ve sessizlik içinde çok iş başarabilir, ardından ormanda bir yürüyüş veya bölgedeki birçok yoga dersi ve inziva merkezinden biriyle dinlenebilirsiniz."
+          "text": "Daha huzurlu bir yer istiyorsanız en iyi seçenek. Sakin havasıyla bilinen bu yerde huzur ve sessizlik içinde çokça iş bitirebilir, ardından ormanda bir yürüyüş ya da bölgedeki sayısız yoga dersi ve inziva merkezinden biriyle dinlenebilirsiniz."
         }
       ]
     },
@@ -90,22 +90,22 @@
       "title": "Sıkça Sorulan Sorular",
       "items": [
         {
-          "q": "Indonesia iş vizeleri nelerdir?",
-          "a": "İki tür Indonesia İş Vizesi vardır: Çoklu Giriş ve Tek Giriş. Tek Girişli İş Vizesi 60 gün geçerlidir ve en fazla 3 kez uzatılabilirken, Çoklu Girişli İş Vizesi 12 ay geçerlidir."
+          "q": "Endonezya iş vizeleri nelerdir?",
+          "a": "İki tür Endonezya İş Vizesi vardır: Çoklu Giriş ve Tek Giriş. Tek Girişli İş Vizesi 60 gün geçerlidir ve en fazla 3 kez uzatılabilir; Çoklu Girişli İş Vizesi ise 12 ay geçerlidir."
         },
         {
-          "q": "Indonesia'da işimi nasıl büyütebilirim?",
-          "a": "Yabancılar için en yaygın yol, bir PT PMA (yabancı sermayeli limited şirket) kurmaktır. Hukuk ekibimiz, şirket kaydı, ruhsatlandırma ve uyumluluğu baştan sona yürütür."
+          "q": "Endonezya'da işimi nasıl büyütebilirim?",
+          "a": "Yabancılar için en yaygın yol, bir PT PMA (yabancı sermayeli limited şirket) kurmaktır. Hukuk ekibimiz şirket kaydı, ruhsatlandırma ve uyum süreçlerini baştan sona yürütür."
         },
         {
-          "q": "Indonesia'da kaç çeşit vergi vardır?",
-          "a": "Başlıca vergiler kurumlar vergisi, kişisel gelir vergisi ve Katma Değer Vergisi (KDV/PPN) ile stopaj vergileridir. Bir NPWP almanıza ve uyumlu kalmanıza yardımcı oluyoruz."
+          "q": "Endonezya'da kaç tür vergi vardır?",
+          "a": "Başlıca vergiler kurumlar vergisi, kişisel gelir vergisi ve Katma Değer Vergisi (KDV/PPN) ile stopaj vergileridir. NPWP almanıza ve uyumlu kalmanıza yardımcı oluyoruz."
         }
       ]
     },
     "cta": {
-      "title": "Indonesia'da Dijital Göçebe Hayatını Yaşamaya Hazır mısınız?",
-      "text": "Planlarınızı bize anlatın, ekibimiz sizi doğru vizeye, izne veya hukuki hizmete yönlendirsin.",
+      "title": "Endonezya'da Dijital Göçebe Yaşamına Hazır mısınız?",
+      "text": "Planlarınızı bize anlatın; ekibimiz sizi doğru vize, izin veya hukuki hizmete yönlendirsin.",
       "button": "Ekibimizle İletişime Geçin"
     }
   },
@@ -115,46 +115,46 @@
     "quickLinks": "Hızlı Bağlantılar",
     "contact": "İletişim",
     "privacy": "Gizlilik Politikası",
-    "whatsappVisa": "WhatsApp — Vize & Hukuki",
+    "whatsappVisa": "WhatsApp — Vize ve Hukuk",
     "whatsappTravel": "WhatsApp — Seyahat"
   },
   "about": {
     "hero": "Hakkımızda",
-    "tagline": "Uzaktan çalışanların ve yurt dışında yaşayanların Indonesia'da yaşamasına, çalışmasına ve yatırım yapmasına yardımcı oluyoruz — en kolay yoldan.",
+    "tagline": "Uzaktan çalışanların ve yabancıların Endonezya'da yaşamasına, çalışmasına ve yatırım yapmasına kolay yoldan yardımcı oluyoruz.",
     "missionTitle": "Misyonumuz",
-    "mission": "Digital Nomad Indonesia, sürdürülebilir uygulamalar, kültürel değişim, topluluk katılımı ve kaynaklar ile ağ oluşturma fırsatları sunarak Indonesia'daki uzaktan çalışanları güçlendirmeyi amaçlar.",
+    "mission": "Digital Nomad Indonesia, sürdürülebilir uygulamalar, kültürel alışveriş, topluluk katılımı ve kaynaklar ile ağ oluşturma fırsatları sunarak Endonezya'daki uzaktan çalışanları güçlendirmeyi amaçlar.",
     "storyTitle": "Biz Kimiz",
-    "story": "Canggu, Bali merkezli, Indonesia'ya taşınmayı basitleştirmeye adanmış bir vize, hukuk ve seyahat uzmanları ekibiyiz. İlk turist vizenizden bir şirket kurmaya ve uzun vadeli yerleşmeye kadar, buraya gelme amacınız olan hayata ve işe odaklanabilmeniz için her gereklilikte size rehberlik ediyoruz.",
+    "story": "Canggu, Bali merkezli olarak, Endonezya'ya taşınmayı basitleştirmeye adanmış bir vize, hukuk ve seyahat uzmanları ekibiyiz. İlk turist vizenizden bir şirket kurmaya ve uzun vadede yerleşmeye kadar, buraya gelme amacınız olan yaşam ve işe odaklanabilmeniz için sizi her gereklilikte yönlendiriyoruz.",
     "values": [
-      {"title": "Güvenilir & Uyumlu", "text": "Indonesia göçmenlik ve vergi mevzuatına tam uyumlu kalmanızı sağlıyoruz."},
-      {"title": "Baştan Sona Destek", "text": "Vizeler, hukuki kurulum ve seyahat için tek bir ekip — birden fazla acenteyle uğraşmanıza gerek yok."},
-      {"title": "Yerel Uzmanlık", "text": "Bali'de sahadaki bilgi birikimi ve doğru ofislerle güçlü ilişkiler."},
-      {"title": "Önce Topluluk", "text": "Sizi dijital göçebe topluluğu ve ihtiyaç duyduğunuz kaynaklarla buluşturuyoruz."}
+      {"title": "Güvenilir ve Uyumlu", "text": "Endonezya göçmenlik ve vergi düzenlemelerine tam uyumlu kalmanızı sağlarız."},
+      {"title": "Uçtan Uca Destek", "text": "Vizeler, hukuki kuruluş ve seyahat için tek bir ekip — birden fazla acenteyle uğraşmanıza gerek yok."},
+      {"title": "Yerel Uzmanlık", "text": "Bali'de sahadaki bilgi birikimi ve doğru resmi kurumlarla güçlü ilişkiler."},
+      {"title": "Önce Topluluk", "text": "Sizi dijital göçebe topluluğuyla ve ihtiyacınız olan kaynaklarla buluştururuz."}
     ],
     "stats": [
       {"value": "1000+", "label": "Hizmet verilen müşteri"},
-      {"value": "10+", "label": "Vize & izin türü"},
+      {"value": "10+", "label": "Vize ve izin türü"},
       {"value": "5", "label": "Desteklenen dil"},
       {"value": "Bali", "label": "Canggu merkezli"}
     ]
   },
   "faqPage": {
     "hero": "Sıkça Sorulan Sorular",
-    "tagline": "Indonesia'da vizeler, izinler ve iş yapma hakkında en çok duyduğumuz soruların yanıtları.",
+    "tagline": "Endonezya'da vizeler, izinler ve iş yapma hakkında en çok duyduğumuz soruların yanıtları.",
     "items": [
-      {"q": "Indonesia iş vizeleri nelerdir?", "a": "İki tür Indonesia İş Vizesi vardır: Çoklu Giriş ve Tek Giriş. Tek Girişli İş Vizesi 60 gün geçerlidir ve en fazla 3 kez uzatılabilirken, Çoklu Girişli İş Vizesi 12 ay geçerlidir."},
-      {"q": "Indonesia'da işimi nasıl büyütebilirim?", "a": "Yabancılar için en yaygın yol, bir PT PMA (yabancı sermayeli limited şirket) kurmaktır. Hukuk ekibimiz, şirket kaydı, ruhsatlandırma ve uyumluluğu baştan sona yürütür."},
-      {"q": "Indonesia'da kaç çeşit vergi vardır?", "a": "Başlıca vergiler kurumlar vergisi, kişisel gelir vergisi ve Katma Değer Vergisi (KDV/PPN) ile stopaj vergileridir. Bir NPWP almanıza ve uyumlu kalmanıza yardımcı oluyoruz."},
-      {"q": "Dijital göçebeler için hangi vize en iyisidir?", "a": "Uzaktan Çalışan (Dijital Göçebe) Vizesi, Indonesia dışında bir şirkette çalışanlar için uygundur; B211 tek girişli vize ise daha uzun tatiller ve uzaktan konaklamalar için popülerdir. Durumunuza en uygun olanı size önereceğiz."},
-      {"q": "Varışta Vizemi uzatabilir miyim?", "a": "Evet. Varışta Vize, ülkeden çıkmadan bir kez daha 30 gün için uzatılabilir ve tüm süreci sizin adınıza yönetiyoruz."},
-      {"q": "KITAS ve KITAP konusunda yardımcı oluyor musunuz?", "a": "Evet. Yatırımcı, Çalışma, Aile ve Emeklilik KITAS işlemlerini yürütüyoruz ve uygun olduğunuz durumlarda sizi daha uzun vadeli bir KITAP'a yönlendirebiliriz."},
-      {"q": "Süreç ne kadar sürüyor?", "a": "Süreler vize türüne göre değişir, ancak size her zaman baştan gerçekçi bir tahmin veriyor ve her aşamada sizi bilgilendiriyoruz."},
-      {"q": "Bali dışında hizmet veriyor musunuz?", "a": "Evet. Canggu merkezli olmamıza rağmen, Indonesia genelinde müşterilerimize vize, hukuki kurulum ve taşınma konularında yardımcı oluyoruz."}
+      {"q": "Endonezya iş vizeleri nelerdir?", "a": "İki tür Endonezya İş Vizesi vardır: Çoklu Giriş ve Tek Giriş. Tek Girişli İş Vizesi 60 gün geçerlidir ve en fazla 3 kez uzatılabilir; Çoklu Girişli İş Vizesi ise 12 ay geçerlidir."},
+      {"q": "Endonezya'da işimi nasıl büyütebilirim?", "a": "Yabancılar için en yaygın yol, bir PT PMA (yabancı sermayeli limited şirket) kurmaktır. Hukuk ekibimiz şirket kaydı, ruhsatlandırma ve uyum süreçlerini baştan sona yürütür."},
+      {"q": "Endonezya'da kaç tür vergi vardır?", "a": "Başlıca vergiler kurumlar vergisi, kişisel gelir vergisi ve Katma Değer Vergisi (KDV/PPN) ile stopaj vergileridir. NPWP almanıza ve uyumlu kalmanıza yardımcı oluyoruz."},
+      {"q": "Dijital göçebeler için hangi vize en iyisidir?", "a": "Uzaktan Çalışan (Dijital Göçebe) Vizesi, Endonezya dışında bir şirkette çalışanlara uygundur; B211 tek girişli vize ise daha uzun tatiller ve uzaktan konaklamalar için popülerdir. Durumunuza en uygun seçeneği öneririz."},
+      {"q": "Kapıda Vizemi uzatabilir miyim?", "a": "Evet. Kapıda Vize, ülkeden çıkmadan bir kez daha 30 gün için uzatılabilir ve tüm süreci sizin adınıza yönetiriz."},
+      {"q": "KITAS ve KITAP konusunda yardımcı oluyor musunuz?", "a": "Evet. Yatırımcı, Çalışma, Aile ve Emeklilik KITAS işlemlerini yürütürüz ve uygun olduğunuz durumlarda daha uzun vadeli bir KITAP için sizi yönlendirebiliriz."},
+      {"q": "Süreç ne kadar sürer?", "a": "Süreler vize türüne göre değişir, ancak size her zaman baştan gerçekçi bir tahmin veririz ve her aşamada sizi bilgilendiririz."},
+      {"q": "Bali dışında hizmet veriyor musunuz?", "a": "Evet. Canggu merkezli olsak da, Endonezya genelinde müşterilere vize, hukuki kuruluş ve taşınma konusunda yardımcı oluyoruz."}
     ]
   },
   "contact": {
-    "hero": "Bize Ulaşın",
-    "tagline": "Planlarınızı bize anlatın — ekibimiz sizi doğru vizeye, izne veya hizmete yönlendirsin.",
+    "hero": "İletişim",
+    "tagline": "Planlarınızı bize anlatın — ekibimiz sizi doğru vize, izin veya hizmete yönlendirsin.",
     "formTitle": "Bize bir mesaj gönderin",
     "name": "Ad soyad",
     "email": "E-posta adresi",
@@ -164,25 +164,84 @@
     "send": "Mesaj Gönder",
     "sending": "Gönderiliyor…",
     "success": "Teşekkürler! Mesajınız gönderildi. En kısa sürede size geri döneceğiz.",
-    "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
+    "error": "Bir sorun oluştu. Lütfen tekrar deneyin veya doğrudan bize e-posta gönderin.",
     "reachUs": "Bize ulaşın",
     "topics": [
-      "Varışta Vize Uzatma",
-      "Sosyal & Kültür Vizesi",
+      "Kapıda Vize Uzatması",
+      "Sosyal ve Kültür Vizesi",
       "Tek veya Çoklu Girişli İş Vizesi",
       "Emeklilik Vizesi / KITAS",
       "Aile Vizesi / KITAS",
       "Çalışma Vizesi / KITAS",
       "Yatırımcı KITAS",
       "Şirket Kuruluşu (PT PMA)",
-      "Yeminli & Onaylı Tercüme",
-      "Belge Yasallaştırma",
-      "Seyahat & Tur",
+      "Yeminli ve Onaylı Tercüme",
+      "Belge Onaylama",
+      "Seyahat ve Tur",
       "Diğer"
     ]
   },
   "privacy": {
     "hero": "Gizlilik Politikası",
     "updated": "Son güncelleme: Temmuz 2025"
+  },
+  "ui": {
+    "home": "Ana Sayfa",
+    "backToHome": "Ana Sayfaya Dön",
+    "notFoundTitle": "Sayfa bulunamadı",
+    "notFoundText": "Aradığınız sayfa mevcut değil veya taşınmış olabilir.",
+    "whyChooseUs": "Neden bizi seçmelisiniz"
+  },
+  "service": {
+    "included": "Neler dahil",
+    "howItWorks": "Nasıl çalışır",
+    "quickFacts": "Kısa bilgiler",
+    "otherServices": "Diğer hizmetler",
+    "needTitle": "Bu vizeye mi ihtiyacınız var?",
+    "needText": "Ekibimizle konuşun; tüm evrak işlerini baştan sona biz halledelim.",
+    "getInTouch": "Bize Ulaşın"
+  },
+  "visaPage": {
+    "heroTitle": "Vize ve Oturma İzni Hizmetleri",
+    "heroTagline": "Kısa tatillerden uzun vadeli oturuma kadar — göçmenlikle ilgili her adımı biz yönetiriz, siz uğraşmayın.",
+    "visas": "Vizeler",
+    "visasIntro": "Endonezya'da turizm, iş ve uzaktan çalışma için kısa ve orta vadeli vizeler.",
+    "kitasTitle": "KITAS (Oturma İzinleri)",
+    "kitasIntro": "Yatırımcılar, profesyoneller, aileler ve emekliler için sınırlı süreli oturma izinleri."
+  },
+  "legal": {
+    "heroTitle": "Hukuki Hizmetler",
+    "heroTagline": "Endonezya'da iş yapan yabancılar için şirket kuruluşu, vergi ve uyum — uzmanlar tarafından yürütülür.",
+    "title": "Yasal olarak faaliyet göstermek için ihtiyacınız olan her şey",
+    "intro": "İster bir PT PMA kuruyor olun ister tek bir belgenin onaylanmasına ihtiyacınız olsun, hukuk ekibimiz süreci basitleştirir.",
+    "items": [
+      {"title": "PT PMA Şirket Kuruluşu", "text": "Doğru iş sınıflandırması, sermaye yapısı ve ruhsatlandırma ile yabancı sermayeli bir limited şirket (PT PMA) kurun."},
+      {"title": "Şirket Kaydı", "text": "Uçtan uca kuruluş: kuruluş sözleşmesi, NIB, iş ruhsatları ve tüm destekleyici kayıtlar."},
+      {"title": "Vergi Kimlik Numarası (NPWP)", "text": "Kişisel veya kurumsal NPWP'nizi alın ve Endonezya vergi yükümlülüklerine uyumlu kalın."},
+      {"title": "Sanal Ofis", "text": "Stratejik bir konumda kayıtlı bir iş adresi — şirketiniz için pratik ve uygun fiyatlı bir üs."},
+      {"title": "Yeminli ve Onaylı Tercüme", "text": "Resmi belgelerin yeminli tercümanlar tarafından yasal olarak tanınan tercümeleri."},
+      {"title": "Belge Onaylama", "text": "Belgelerin Endonezya makamları ve yurt dışında kullanılmak üzere noter tasdiki ve onaylanması."}
+    ]
+  },
+  "travel": {
+    "heroTitle": "Seyahat ve Tur",
+    "heroTagline": "Bali'nin tadını çıkarın — seçkin turlar, transferler ve deneyimler, tümü seyahat ekibimiz tarafından düzenlenir.",
+    "title": "Ada genelinde deneyimler",
+    "intro": "Tek bir havalimanı karşılamasından baştan sona planlanmış bir haftaya kadar, siz Bali'nin tadını çıkarabilesiniz diye ayrıntılarla biz ilgileniyoruz.",
+    "items": [
+      {"title": "Özel Bali Turları", "text": "Özel bir şoför ve rehber eşliğinde tapınakları, pirinç teraslarını, şelaleleri ve plajları keşfedin."},
+      {"title": "Havalimanı Transferleri", "text": "Bali genelinde önceden düzenlenmiş, güvenilir ve konforlu karşılama ve bırakma hizmetleri."},
+      {"title": "Size Özel Rotalar", "text": "İlgi alanlarınıza, programınıza ve bütçenize göre oluşturulmuş özel çok günlü geziler."},
+      {"title": "Macera ve Aktiviteler", "text": "Sörf, dalış, yanardağ yürüyüşleri, yoga inzivaları ve daha fazlası — sizin için rezerve edilir ve koordine edilir."},
+      {"title": "Adadan Adaya Gezi", "text": "Nusa Penida, Gili Adaları ve ötesine, ulaşım ve lojistiği halledilmiş geziler."},
+      {"title": "Grup ve Ekip Gezileri", "text": "Ortak çalışma toplulukları, ekipler ve arkadaş grupları için inzivalar ve geziler."}
+    ]
+  },
+  "blogPage": {
+    "heroTitle": "Bloglar ve Rehberler",
+    "heroTagline": "Endonezya'da yaşamak ve çalışmak için göçmenlik güncellemeleri, vize rehberleri ve pratik tavsiyeler.",
+    "featured": "Öne Çıkanlar",
+    "readArticle": "Makaleyi oku →",
+    "moreArticles": "Daha fazla makale"
   }
 }
