@@ -59,6 +59,11 @@ export default function Footer() {
           <ul className="space-y-3 text-sm text-slate-400">
             <li>{site.address}</li>
             <li>
+              <a href={site.whatsapp.url} target="_blank" rel="noopener noreferrer" className="hover:text-white">
+                WhatsApp: {site.whatsapp.number}
+              </a>
+            </li>
+            <li>
               <a href={`mailto:${site.email}`} className="hover:text-white">
                 {site.email}
               </a>

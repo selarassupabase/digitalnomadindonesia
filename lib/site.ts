@@ -10,8 +10,8 @@ export const site = {
   address:
     'Jl. Kayu Manis, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351',
   whatsapp: {
-    visaLegal: '+62 000 0000 0000',
-    travel: '+62 000 0000 0000'
+    number: '+62 812-3960-5095',
+    url: 'https://wa.me/6281239605095'
   },
   socials: {
     instagram: 'https://instagram.com/',

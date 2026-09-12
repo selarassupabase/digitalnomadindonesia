@@ -52,6 +52,9 @@ function ContactContent() {
                   <IconChat />
                   <div className="text-ink-soft">
                     <div className="font-semibold text-ink">WhatsApp</div>
+                    <a href={site.whatsapp.url} target="_blank" rel="noopener noreferrer" className="hover:text-brand">
+                      {site.whatsapp.number}
+                    </a>
                     <div>Visa &amp; Legal · Travel divisions</div>
                   </div>
                 </li>
